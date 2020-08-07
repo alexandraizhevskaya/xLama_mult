@@ -1,0 +1,402 @@
+{"masked_sentences": ["Байрон заболел [MASK] в Миссолонги."], "obj_label": "лихорадкой", "id": 12786, "sub_label": "Squad"}
+{"masked_sentences": ["Bзлишки тепла у млекопитающих отводятся [MASK]."], "obj_label": "потоотделением", "id": 39919, "sub_label": "Squad"}
+{"masked_sentences": ["Кристаллы различной формы имеют [MASK] вершины."], "obj_label": "острые", "id": 70862, "sub_label": "Squad"}
+{"masked_sentences": ["Виноградов предложил [MASK] методов оценки модуля тригонометрических сумм."], "obj_label": "два", "id": 23098, "sub_label": "Squad"}
+{"masked_sentences": ["Группы: Devo, Suicide, Television, Talking Heads являются представителями [MASK]."], "obj_label": "постпанка", "id": 69511, "sub_label": "Squad"}
+{"masked_sentences": ["Раковины [MASK] выставлялись на показ в интерьерах XIX века."], "obj_label": "моллюсков", "id": 33857, "sub_label": "Squad"}
+{"masked_sentences": ["Круг кровообращения, функционирующий через легкие, называется [MASK]."], "obj_label": "малым", "id": 19286, "sub_label": "Squad"}
+{"masked_sentences": ["Водородные соединения других элементов являются [MASK]."], "obj_label": "газами", "id": 80930, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] лихорадка передается через укус комара."], "obj_label": "Жёлтая", "id": 49976, "sub_label": "Squad"}
+{"masked_sentences": ["Химическая реакция, происходящая при участии катализаторов, называется [MASK]."], "obj_label": "катализ", "id": 7324, "sub_label": "Squad"}
+{"masked_sentences": ["Дистрибутив linux [MASK] имеет сборки основанные как на Ubuntu, так и Debian (LMDE)."], "obj_label": "Mint", "id": 55488, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] занимается распространением произведений."], "obj_label": "Издательство", "id": 38869, "sub_label": "Squad"}
+{"masked_sentences": ["Художники [MASK] тяготели к эмоциональной стороне жизни и человеческой индивидуальности."], "obj_label": "романтизма", "id": 28057, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] в годы Второй мировой войны впервые ввела в боевой строй подводные авианосцы."], "obj_label": "Япония", "id": 25334, "sub_label": "Squad"}
+{"masked_sentences": ["Cвободное программное обеспечение можно использовать [MASK]."], "obj_label": "бесплатно", "id": 15072, "sub_label": "Squad"}
+{"masked_sentences": ["Болонский процесс начался в [MASK]."], "obj_label": "Болонья", "id": 19761, "sub_label": "Squad"}
+{"masked_sentences": ["Ученые, которые изучают насекомых, называются [MASK]."], "obj_label": "энтомологи", "id": 32609, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] полагал, что движущими силами эволюции являются: определённая изменчивость, неопределённая изменчивость, борьба за существование и естественный отбор."], "obj_label": "Дарвин", "id": 51159, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] обеспечивает уничтожение в молоке бактерий."], "obj_label": "УВТ-обработка", "id": 20662, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] сделано открытие, что установления культуры существенно отличаются от законов природы."], "obj_label": "Софистами", "id": 11326, "sub_label": "Squad"}
+{"masked_sentences": ["У [MASK] существ артериальный ствол является общим."], "obj_label": "земноводных", "id": 54004, "sub_label": "Squad"}
+{"masked_sentences": ["Отец Стивена Кинга был [MASK]."], "obj_label": "моряком", "id": 66339, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] ввел термин идеализм в философию."], "obj_label": "Лейбниц", "id": 20176, "sub_label": "Squad"}
+{"masked_sentences": ["В 2014 году группа Linkin Park выпустила [MASK] по счету студийный альбом."], "obj_label": "шестой", "id": 24724, "sub_label": "Squad"}
+{"masked_sentences": ["Пещеры, образованные волнами морей и океанов в прибрежных скалах, называют [MASK]."], "obj_label": "абразионными", "id": 27202, "sub_label": "Squad"}
+{"masked_sentences": ["Леонардо да Винчи признавал [MASK] ]единственным критерием истины."], "obj_label": "опыт", "id": 16992, "sub_label": "Squad"}
+{"masked_sentences": ["В металлургии для раскисления применяется  [MASK]."], "obj_label": "кальций", "id": 7716, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] стал столицей империи Цинь."], "obj_label": "Сяньян", "id": 22688, "sub_label": "Squad"}
+{"masked_sentences": ["Результаты [MASK] деятельности не могут быть объектами права собственности."], "obj_label": "интеллектуальной", "id": 52636, "sub_label": "Squad"}
+{"masked_sentences": ["Самки перепончатокрылых имеют [MASK] набор хромосом."], "obj_label": "двойной", "id": 21345, "sub_label": "Squad"}
+{"masked_sentences": ["Дми́трий Ива́нович Менделе́ев родился в [MASK]. "], "obj_label": "Тобольск", "id": 13207, "sub_label": "Squad"}
+{"masked_sentences": ["Вирусы,которые зависят от присутствия в клетке-хозяине другого вируса, называются [MASK]."], "obj_label": "вирусами-сателлитами", "id": 39856, "sub_label": "Squad"}
+{"masked_sentences": ["Дыша воздухом с высокой концентрацией метана, человек может погибнуть от недостатка [MASK]."], "obj_label": "кислорода", "id": 60300, "sub_label": "Squad"}
+{"masked_sentences": ["Технология цифровых водяных знаков  разработана компанией  [MASK]."], "obj_label": "Digimarc", "id": 61657, "sub_label": "Squad"}
+{"masked_sentences": ["С начала 1990-х вместо словосочетания народное хозяйство в России стали использовать термин [MASK]."], "obj_label": "экономика", "id": 5635, "sub_label": "Squad"}
+{"masked_sentences": ["В течение двух суток после процедуры сдачи крови не рекомендуется пить [MASK]."], "obj_label": "алкоголь", "id": 28289, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] полагал, что континенты двигаются по базальтам океанического дна."], "obj_label": "Вегенер", "id": 28181, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] часто являлись единственным видом общественного транспорта до появления автобусов."], "obj_label": "Трамваи", "id": 78703, "sub_label": "Squad"}
+{"masked_sentences": ["Креольский язык Суринама образован  на основе [MASK] языка."], "obj_label": "английского", "id": 49376, "sub_label": "Squad"}
+{"masked_sentences": ["Крупнейший порт Литвы Клайпеда расположен на побережье [MASK] моря."], "obj_label": "Балтийского", "id": 71248, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] является главным строительным материалом организма."], "obj_label": "Белок", "id": 68428, "sub_label": "Squad"}
+{"masked_sentences": ["Области [MASK] складчатости примыкали к массиву суши северной Евразии на востоке и юго-востоке в начале кайнозойской эры"], "obj_label": "мезозойской", "id": 64547, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] первым занял должность генерального секретаря МОК."], "obj_label": "Кубертен", "id": 65524, "sub_label": "Squad"}
+{"masked_sentences": ["Плотина обычно является частью [MASK]."], "obj_label": "гидроузла", "id": 70945, "sub_label": "Squad"}
+{"masked_sentences": ["В середине 1970-х годов наблюдался подъём [MASK] музыки."], "obj_label": "электронной", "id": 44285, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] лет у ученых не получалось найти математическое обоснование гипотезы Кеплера."], "obj_label": "400", "id": 28661, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] дал классификацию форм государственного управления."], "obj_label": "Платон", "id": 12491, "sub_label": "Squad"}
+{"masked_sentences": ["Большая часть земли Шлезвиг-Гольштейн географически является частью полуострова [MASK]."], "obj_label": "Ютландия", "id": 28020, "sub_label": "Squad"}
+{"masked_sentences": ["Пьеса На дне была написана в [MASK] году."], "obj_label": "1902", "id": 21807, "sub_label": "Squad"}
+{"masked_sentences": ["Изоморфизм задаёт логическое отношение [MASK]."], "obj_label": "эквивалентности", "id": 30910, "sub_label": "Squad"}
+{"masked_sentences": ["Основателем экспериментальной медицины является [MASK]."], "obj_label": "Гален", "id": 29657, "sub_label": "Squad"}
+{"masked_sentences": ["Копия оригинального сайта называется [MASK]."], "obj_label": "Зеркалом", "id": 30857, "sub_label": "Squad"}
+{"masked_sentences": ["Василий Сафонов получил международное признание в качестве [MASK]."], "obj_label": "дирижёра", "id": 34787, "sub_label": "Squad"}
+{"masked_sentences": ["В Финляндии для приготовления национального блюда [MASK] используется окунь."], "obj_label": "калакукко", "id": 44371, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] подвергает сомнению существование реальности вне сознания."], "obj_label": "Юм", "id": 9893, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] сделка предназначена закрепить прибыль на одном уровне."], "obj_label": "Обратная", "id": 76726, "sub_label": "Squad"}
+{"masked_sentences": ["Нобель переориентировал компанию [MASK] от металлургии к химическому и пушечному производствам."], "obj_label": "Бофорс", "id": 35455, "sub_label": "Squad"}
+{"masked_sentences": ["Uлавным направлением творчества группы Papa Roach в 2012 году являлся [MASK]."], "obj_label": "хард-рок", "id": 44925, "sub_label": "Squad"}
+{"masked_sentences": ["Четвертый альбом Issues группы Korn вышел в свет в [MASK]."], "obj_label": "1999", "id": 58772, "sub_label": "Squad"}
+{"masked_sentences": ["Большинство современников считали Ливай Хилла [MASK]"], "obj_label": "мошенником", "id": 23303, "sub_label": "Squad"}
+{"masked_sentences": ["Классическое определение вероятности можно обобщить на случай [MASK] количества возможных значений."], "obj_label": "бесконечного", "id": 46253, "sub_label": "Squad"}
+{"masked_sentences": ["Белковая оболочка называется [MASK]."], "obj_label": "Капсида", "id": 39881, "sub_label": "Squad"}
+{"masked_sentences": ["Морские костистые рыбы с низкой концентрацией ионов в организме утрачивают [MASK]."], "obj_label": "воду", "id": 53674, "sub_label": "Squad"}
+{"masked_sentences": ["Отдельно адресуемые элементы LCD, LED и плазменных дисплеев называются [MASK]."], "obj_label": "субпиксели", "id": 21099, "sub_label": "Squad"}
+{"masked_sentences": ["Южная Азия включает в себя полуостров [MASK]."], "obj_label": "Индостан", "id": 54467, "sub_label": "Squad"}
+{"masked_sentences": ["Растения снабжают грибы [MASK]."], "obj_label": "углеводородами", "id": 44953, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] является крупным экономическим и финансовым центром Дании."], "obj_label": "Копенгаген", "id": 22147, "sub_label": "Squad"}
+{"masked_sentences": ["Раздел биологии, занимающийся изучением строения и жизнедеятельности клеток, называется [MASK]."], "obj_label": "цитологией", "id": 49995, "sub_label": "Squad"}
+{"masked_sentences": ["Первоначально стиль хаус считался [MASK]."], "obj_label": "андерграундным", "id": 65996, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK]образуются в результате фрагментации или отставания хромосом."], "obj_label": "Микроядра", "id": 55347, "sub_label": "Squad"}
+{"masked_sentences": ["Особая категория прав в законодательстве, ограничивающая свободу использования продукта не его хозяином, называется [MASK]."], "obj_label": "патент", "id": 6080, "sub_label": "Squad"}
+{"masked_sentences": ["Cтроительство Нового моста в Париже относится к эпохе [MASK]."], "obj_label": "Возрождения", "id": 53552, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] считал, что весь мир состоит из первичной субстанции, которая и есть бог."], "obj_label": "Спиноза", "id": 30837, "sub_label": "Squad"}
+{"masked_sentences": ["Поэма Одиссея написана стихотворным размером [MASK]."], "obj_label": "гекзаметром", "id": 55583, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] являются самыми многочисленными биологическими объектами на Земле."], "obj_label": "Вирусы", "id": 73834, "sub_label": "Squad"}
+{"masked_sentences": ["Участки молекулы ДНК, определяющие функциональную единицу наследственности, называются [MASK]."], "obj_label": "генами", "id": 1708, "sub_label": "Squad"}
+{"masked_sentences": ["Во время [MASK] революции развитие парового двигателя в Великобритании подстегнуло идеи мобильного паровоза."], "obj_label": "индустриальной", "id": 47808, "sub_label": "Squad"}
+{"masked_sentences": ["Можно выделить [MASK] постулата термодинамики."], "obj_label": "четыре", "id": 53841, "sub_label": "Squad"}
+{"masked_sentences": ["Музыка Моцарта связана c [MASK] культурой."], "obj_label": "итальянской", "id": 34571, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] считалась экономическим центром Бельгии до 1970 года."], "obj_label": "Валлония", "id": 13815, "sub_label": "Squad"}
+{"masked_sentences": ["СО2 из атмосферы или воды обычно является для живых организмов  источником [MASK]."], "obj_label": "углерода", "id": 66280, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] аспекты работы мозга в целом лежат в области психологии."], "obj_label": "Поведенческие", "id": 55084, "sub_label": "Squad"}
+{"masked_sentences": ["Конус, если в его основании лежит многоугольник, называется [MASK]."], "obj_label": "пирамидой", "id": 50889, "sub_label": "Squad"}
+{"masked_sentences": ["Микела́нджело Буонарро́ти родился в [MASK]."], "obj_label": "Капрезе", "id": 17528, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] энергия не может использоваться в двигателе внешнего сгорания."], "obj_label": "Солнечная", "id": 26390, "sub_label": "Squad"}
+{"masked_sentences": ["При нагревании кремния с металлами могут образовываться [MASK]."], "obj_label": "силициды", "id": 57115, "sub_label": "Squad"}
+{"masked_sentences": ["В начале XVII века Галилео Галилей изучал Юпитер с помощью [MASK]."], "obj_label": "телескопа", "id": 25956, "sub_label": "Squad"}
+{"masked_sentences": ["В публичных театрах Рима любили ставить [MASK]."], "obj_label": "оперы", "id": 6636, "sub_label": "Squad"}
+{"masked_sentences": ["Маркетинг, исключающий введение дополнительного трафика, и направленный на преобразование существующего, называется [MASK]."], "obj_label": "конверсионный", "id": 81893, "sub_label": "Squad"}
+{"masked_sentences": ["Шумеры называли ячмень [MASK]."], "obj_label": "акити", "id": 70504, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] генератор можно использовать в качестве двигателя."], "obj_label": "Магнитогидродинамический", "id": 17099, "sub_label": "Squad"}
+{"masked_sentences": ["Распространение [MASK] форм рельефа характерно для Альпийского пояса."], "obj_label": "горно-ледниковых", "id": 43694, "sub_label": "Squad"}
+{"masked_sentences": ["Вирусы утратили [MASK]."], "obj_label": "гены", "id": 68185, "sub_label": "Squad"}
+{"masked_sentences": ["Получение [MASK] этанола основано на азеотропном удалении воды с бензолом."], "obj_label": "безводного", "id": 38621, "sub_label": "Squad"}
+{"masked_sentences": ["Решение уравнения Декартом через построение отрезка с длиной, равной корню уравнения, представляет собой [MASK]."], "obj_label": "анахронизм", "id": 42914, "sub_label": "Squad"}
+{"masked_sentences": ["Курс одной валюты по отношению к другой, определёный через третью валюту, называется [MASK]."], "obj_label": "кросс-курсом", "id": 70122, "sub_label": "Squad"}
+{"masked_sentences": ["Роман Уэллса Машина времени вышел в [MASK] году."], "obj_label": "1895", "id": 48058, "sub_label": "Squad"}
+{"masked_sentences": ["Советские кассеты для магнитофонов назывались [MASK]."], "obj_label": "МК", "id": 27586, "sub_label": "Squad"}
+{"masked_sentences": ["Развитие [MASK] способствовало переосмыслению роли доктрины в праве."], "obj_label": "позитивизма", "id": 51484, "sub_label": "Squad"}
+{"masked_sentences": ["Распад с испусканием бета-частиц называют [MASK]."], "obj_label": "бета-распадом", "id": 12205, "sub_label": "Squad"}
+{"masked_sentences": ["Мост, по которому проходит линия метрополитена, называется [MASK]."], "obj_label": "Метромост", "id": 75828, "sub_label": "Squad"}
+{"masked_sentences": ["В рамках [MASK] были пересмотрены концепции Дана Бодрияра и Карла Ясперса относительно массового искусства."], "obj_label": "постмодернизма", "id": 23058, "sub_label": "Squad"}
+{"masked_sentences": ["Расса, образовавшаяся от совмещения негроидной и европеоидной расы, называются [MASK]."], "obj_label": "мулаты", "id": 57055, "sub_label": "Squad"}
+{"masked_sentences": ["Труд [MASK] более двух тысячелетий считался образцовым изложением в духе аксиоматического метода"], "obj_label": "Евклида", "id": 17092, "sub_label": "Squad"}
+{"masked_sentences": ["У Standard Bank of British South Africa насчитывалось [MASK] отделений в 1953 году."], "obj_label": "600", "id": 44131, "sub_label": "Squad"}
+{"masked_sentences": ["Брата Отто Великого звали [MASK]."], "obj_label": "Бруно", "id": 7007, "sub_label": "Squad"}
+{"masked_sentences": ["В клетках бактерий помимо хромосомы находятся [MASK]."], "obj_label": "плазмиды", "id": 24940, "sub_label": "Squad"}
+{"masked_sentences": ["Степени свободы адронов получили название  [MASK]."], "obj_label": "кварки", "id": 80435, "sub_label": "Squad"}
+{"masked_sentences": ["Дополнительная плата,взымаемая перевозчиком, за организации перегрузок с последующими перевозками,называется [MASK]. "], "obj_label": "фрахт", "id": 13591, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] является практической, нравственной философией, описывающей правильное и достойное поведение."], "obj_label": "Этика", "id": 81961, "sub_label": "Squad"}
+{"masked_sentences": ["Боуи добился крупного успеха в [MASK]году."], "obj_label": "1975", "id": 64907, "sub_label": "Squad"}
+{"masked_sentences": ["в 20-е годы V века до н. э. Помпеи были завоёваны [MASK]."], "obj_label": "самнитами", "id": 26505, "sub_label": "Squad"}
+{"masked_sentences": ["Мартин Каппа работал в [MASK]."], "obj_label": "Спрингфилде", "id": 41817, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] братил внимание на закономерность, известную как Закон Коперника."], "obj_label": "Коперник", "id": 52717, "sub_label": "Squad"}
+{"masked_sentences": ["Серная кислота и олеум могут вызвать [MASK] ожоги."], "obj_label": "химические", "id": 44204, "sub_label": "Squad"}
+{"masked_sentences": ["У половцев был [MASK] социалистический строй."], "obj_label": "военно-демократический", "id": 52848, "sub_label": "Squad"}
+{"masked_sentences": ["Сумма аккредитива иначе называется [MASK]."], "obj_label": "покрытие", "id": 13352, "sub_label": "Squad"}
+{"masked_sentences": ["Дыхательная система обеспечивает поступление [MASK]."], "obj_label": "кислорода", "id": 33427, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] нейтроны ядра постепенно превращаются в протоны."], "obj_label": "Избыточные", "id": 9072, "sub_label": "Squad"}
+{"masked_sentences": ["Вторая пластинка группы Slipknot вышла в [MASK] году."], "obj_label": "2001", "id": 2049, "sub_label": "Squad"}
+{"masked_sentences": ["Особая субрасовая группа негроидных африканских народов называется [MASK]."], "obj_label": "пигмеи", "id": 76404, "sub_label": "Squad"}
+{"masked_sentences": ["В 1796—1802 годах Екатеринослав назывался [MASK]."], "obj_label": "Новороссийск", "id": 21793, "sub_label": "Squad"}
+{"masked_sentences": ["Преступления MASK] тяжести могут относится к амнистии."], "obj_label": "небольшой", "id": 10185, "sub_label": "Squad"}
+{"masked_sentences": ["Разрезание промежности роженицы для облегчения появления головки ребёнка называется [MASK]."], "obj_label": "Эпизиотомия", "id": 22278, "sub_label": "Squad"}
+{"masked_sentences": ["Этьен Марсель был убит в [MASK]."], "obj_label": "Бастилии", "id": 75791, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] навёл древних архитекторов на мысль создания свода в виде купола."], "obj_label": "Тандыр", "id": 70089, "sub_label": "Squad"}
+{"masked_sentences": ["Прокариоты могут поглощаться путем [MASK]."], "obj_label": "фагоцитоза", "id": 36348, "sub_label": "Squad"}
+{"masked_sentences": ["Раньше [MASK] называли деревню с церковью и торговой площадью."], "obj_label": "погостом", "id": 25432, "sub_label": "Squad"}
+{"masked_sentences": ["Бросив историю и философию, Лейбниц занялся [MASK]."], "obj_label": "юриспруденцией", "id": 32603, "sub_label": "Squad"}
+{"masked_sentences": ["Процесс термической переработки молока при повышенной температуре называется [MASK]."], "obj_label": "термизация", "id": 49113, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] способствует появлению чёрных рынков."], "obj_label": "Дефицит", "id": 16225, "sub_label": "Squad"}
+{"masked_sentences": ["В 1669 г.[MASK] был установлен факт, что вес металлов при превращении их в извести увеличивается."], "obj_label": "Майовом", "id": 9683, "sub_label": "Squad"}
+{"masked_sentences": ["У Леонардо да Винчи [MASK] носят форму шутливых загадок."], "obj_label": "пророчества", "id": 36096, "sub_label": "Squad"}
+{"masked_sentences": ["В 237 году до н. э Гамилькар Барка начал писать летопись [MASK]. "], "obj_label": "Барселоны", "id": 60810, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] определение вероятности при рассмотрении сложных проблем наталкивается на трудности непреодолимого характера."], "obj_label": "Классическое", "id": 5424, "sub_label": "Squad"}
+{"masked_sentences": ["Химические реакции, происходящие под действием ионизирующих излучений, называются [MASK]."], "obj_label": "радиационно-химическими", "id": 31688, "sub_label": "Squad"}
+{"masked_sentences": ["В конце [MASK] периода континент Евразия принял свои современные очертания."], "obj_label": "Третичного", "id": 28458, "sub_label": "Squad"}
+{"masked_sentences": ["Основной единицей в Международной системе единиц динамической температуры является [MASK]."], "obj_label": "кельвин", "id": 688, "sub_label": "Squad"}
+{"masked_sentences": ["Жуан Фернандиш обнаружил остров [MASK]."], "obj_label": "Лабрадор", "id": 84428, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] фармакология изучает воздействие лекарственных средств на организм уже болеющего человека."], "obj_label": "Клиническая", "id": 7683, "sub_label": "Squad"}
+{"masked_sentences": ["Императорская династия Тан была названа в честь народа [MASK]."], "obj_label": "Табгач", "id": 26400, "sub_label": "Squad"}
+{"masked_sentences": ["В периоды античности, средневековья и нового времени деньгами являлся [MASK]."], "obj_label": "Металл", "id": 16634, "sub_label": "Squad"}
+{"masked_sentences": ["Более длинная модификация флейты называется [MASK]."], "obj_label": "лоу-вистла", "id": 61097, "sub_label": "Squad"}
+{"masked_sentences": ["Старшего брата Сократа по кровной линии матери звали [MASK]."], "obj_label": "Патрокл", "id": 75757, "sub_label": "Squad"}
+{"masked_sentences": ["Пещеры, образованные несущими песок ветрами на пустынных скалах, называют [MASK]."], "obj_label": "коррозионными", "id": 82344, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] эволюция имеет место, когда качества воспроизводят друг друга благодаря влиянию окружающей среды или общего функционального использования, а не всеобщему происхождению."], "obj_label": "Конвергентная", "id": 41923, "sub_label": "Squad"}
+{"masked_sentences": ["Уильям Блейк написал портрет [MASK]."], "obj_label": "Ньютона", "id": 64343, "sub_label": "Squad"}
+{"masked_sentences": ["Период месячного цикла женщины, в который может наступить беременность, называется [MASK]."], "obj_label": "овуляция", "id": 80625, "sub_label": "Squad"}
+{"masked_sentences": ["Кеплер детально изучал [MASK] строения снежинок."], "obj_label": "симметрию", "id": 65397, "sub_label": "Squad"}
+{"masked_sentences": ["ФРС подконтрольна [MASK]."], "obj_label": "Конгрессу", "id": 58072, "sub_label": "Squad"}
+{"masked_sentences": ["Название мещанство произошло от  слова [MASK]."], "obj_label": "местечко", "id": 76305, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] считал источником изменений природу человека."], "obj_label": "Кант ", "id": 65382, "sub_label": "Squad"}
+{"masked_sentences": ["Если пользователи сети выполняют одинаковые функции,их можно назвать [MASK]."], "obj_label": "гомогенными", "id": 69738, "sub_label": "Squad"}
+{"masked_sentences": ["Монтень ставит главной в педагогической теории принцип [MASK] развития."], "obj_label": "разностороннего", "id": 63063, "sub_label": "Squad"}
+{"masked_sentences": ["Мать Дали умерла в [MASK] году."], "obj_label": "1921", "id": 32039, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] теория предполагает, что конечной целью любой компании является получение прибыли."], "obj_label": "Экономическая", "id": 23088, "sub_label": "Squad"}
+{"masked_sentences": ["В уравнение [MASK] степени входят производные линейных уравнений"], "obj_label": "первой", "id": 81129, "sub_label": "Squad"}
+{"masked_sentences": ["Оратор [MASK] рассматривал Филиппа II как агрессора, душителя свободы Эллады."], "obj_label": "Демосфен", "id": 78421, "sub_label": "Squad"}
+{"masked_sentences": ["Машины [MASK] по-прежнему являются основным объектом исследования теории алгоритмов."], "obj_label": "Тьюринга", "id": 41719, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] является создателем философской системы, получившей название монадология."], "obj_label": "Лейбниц", "id": 22034, "sub_label": "Squad"}
+{"masked_sentences": ["Музыкант, играющий на гитаре, называется [MASK]."], "obj_label": "Гитари́ст", "id": 37591, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] изучает заболевания сердечно-сосудистой системы."], "obj_label": "Кардиология", "id": 6554, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] впервые разработали теорию для объяснения видимого движения Юпитера."], "obj_label": "Вавилоняне", "id": 48663, "sub_label": "Squad"}
+{"masked_sentences": ["Альбом певиц Мадонны Like a Prayer был выпущен в [MASK] году."], "obj_label": "1989", "id": 64260, "sub_label": "Squad"}
+{"masked_sentences": ["Перин дель Вага стал [MASK]."], "obj_label": "художником", "id": 50674, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] признак особи доминирующего организма оказывается существенным для разных типов племён."], "obj_label": "Половой", "id": 44627, "sub_label": "Squad"}
+{"masked_sentences": ["Со времени правления императора [MASK] началась история письменности в Индии."], "obj_label": "Ашоки", "id": 21638, "sub_label": "Squad"}
+{"masked_sentences": ["Суперконтинент, в который объединились континенты после распада Родинии, называется [MASK]."], "obj_label": "Пангея", "id": 7276, "sub_label": "Squad"}
+{"masked_sentences": ["Впервые в истории турнира [MASK] было принято решение уравнять размер призовых для мужчин и женщин в 2007 году."], "obj_label": "Уимблдона", "id": 66979, "sub_label": "Squad"}
+{"masked_sentences": ["Животное в своём онтогенезе повторяет [MASK]."], "obj_label": "филогенез", "id": 23639, "sub_label": "Squad"}
+{"masked_sentences": ["Температурные режимы [MASK] полностью инактивируют щелочную фосфатазу."], "obj_label": "пастеризации", "id": 12762, "sub_label": "Squad"}
+{"masked_sentences": ["Для жизнедеятельности всех известных форм жизни необходима [MASK]."], "obj_label": "вода", "id": 74357, "sub_label": "Squad"}
+{"masked_sentences": ["Октябрьская революция была в России в [MASK] году."], "obj_label": "1917", "id": 78153, "sub_label": "Squad"}
+{"masked_sentences": ["Минеральные вещества, концентрация которых невелика и измеряется в микрограммах на 1 кг продукта, называют [MASK]."], "obj_label": "микроэлементами", "id": 18213, "sub_label": "Squad"}
+{"masked_sentences": ["Антициклоны формируются чаще всего в зонах [MASK] воздуха."], "obj_label": "холодного", "id": 55871, "sub_label": "Squad"}
+{"masked_sentences": ["При горении вещества происходит [MASK]."], "obj_label": "окисление", "id": 69111, "sub_label": "Squad"}
+{"masked_sentences": ["Семейство Unix-подобных операционных систем на базе ядра Linux называется [MASK]."], "obj_label": "Linux", "id": 24755, "sub_label": "Squad"}
+{"masked_sentences": ["Гормоны, которые вырабатывает щитовидная железа, называютсчя [MASK]."], "obj_label": "йодтиронины", "id": 10659, "sub_label": "Squad"}
+{"masked_sentences": ["В процессе митотического деления клеток активная роль отведена [MASK] структурам."], "obj_label": "цитоскелетным", "id": 10613, "sub_label": "Squad"}
+{"masked_sentences": ["При игре на гитаре нумеруется цифрой один [MASK] палец."], "obj_label": "указательный", "id": 77544, "sub_label": "Squad"}
+{"masked_sentences": ["Благодаря развитию биохимии были открыты  [MASK]."], "obj_label": "ферменты", "id": 79687, "sub_label": "Squad"}
+{"masked_sentences": ["Большинство исследователей называет поздние пьесы Шекспира [MASK]."], "obj_label": "трагикомедиями", "id": 70543, "sub_label": "Squad"}
+{"masked_sentences": ["Наука [MASK] занимается описанием, классификацией и анализом условий образования осадочных горных пород."], "obj_label": "литология", "id": 42665, "sub_label": "Squad"}
+{"masked_sentences": ["у большинства прокариот в клетке имеется [MASK] макромолекула ДНК"], "obj_label": "одна", "id": 75427, "sub_label": "Squad"}
+{"masked_sentences": ["В римской мифологии Марс первоначально был богом [MASK]."], "obj_label": "плодородия", "id": 22682, "sub_label": "Squad"}
+{"masked_sentences": ["В произведении Скандал в Богемии Шерлок Холмс демонстрирует знание [MASK]."], "obj_label": "психологии", "id": 74065, "sub_label": "Squad"}
+{"masked_sentences": ["Для сцены Константин Алексеев взял фамилию [MASK]."], "obj_label": "Станиславский", "id": 57520, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] является самым дорогим драгоценным камнем."], "obj_label": "Бриллиант", "id": 24881, "sub_label": "Squad"}
+{"masked_sentences": ["Двукрылые кровососы в основном питаются кровью [MASK] животных ."], "obj_label": "млекопитающих", "id": 25684, "sub_label": "Squad"}
+{"masked_sentences": ["В [MASK] летописи появляются представители почти всех современных типов живых организмов, а также представители многих вымерших линий."], "obj_label": "палеонтологической", "id": 47401, "sub_label": "Squad"}
+{"masked_sentences": ["Шаляпин был похоронен На кладбище  [MASK]."], "obj_label": "Парижа", "id": 49813, "sub_label": "Squad"}
+{"masked_sentences": ["В зрелые годы  Бунин самостоятельно освоил [MASK] язык."], "obj_label": "польский", "id": 22009, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] оказывает активное влияние на постоянно изменяющиеся факторы окружающей среды."], "obj_label": "Человек", "id": 73812, "sub_label": "Squad"}
+{"masked_sentences": ["Процесс определения качества воздуха окружающей среды по-научному называется [MASK]."], "obj_label": "лихеноиндикация", "id": 12869, "sub_label": "Squad"}
+{"masked_sentences": ["Рабочая форма одноцепочечной молекулы РНК обладает [MASK] структурой."], "obj_label": "третичной", "id": 28198, "sub_label": "Squad"}
+{"masked_sentences": ["Для [MASK] частиц биологическая эффективность прямо связана с линейной передачей энергии данного типа частиц."], "obj_label": "заряженных", "id": 40007, "sub_label": "Squad"}
+{"masked_sentences": ["У писателя [MASK] был псевдоним Ричард Бахман."], "obj_label": "Кинга", "id": 28941, "sub_label": "Squad"}
+{"masked_sentences": ["Феминистки видят сначала в Мадонне стереотип [MASK]."], "obj_label": "женщины-соблазнительницы", "id": 74518, "sub_label": "Squad"}
+{"masked_sentences": ["Обычно один из компонентов в составе дифтонгов является [MASK]."], "obj_label": "слоговым", "id": 16361, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] стал автором очень важных произведений Античности - диалогов Оратор, Республика, Гортензия."], "obj_label": "Цицерон", "id": 10337, "sub_label": "Squad"}
+{"masked_sentences": ["В день вакцинации в сельской местности пациент должен быть осмотрен [MASK]."], "obj_label": "фельдшером", "id": 20718, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] сидения могут быть как совместного, так и раздельного типа."], "obj_label": "Пассажирские", "id": 15759, "sub_label": "Squad"}
+{"masked_sentences": ["['Клаудия Галловиц-Холл является гражданином [MASK].']"], "obj_label": "Румынии", "id": "fc144486715b86fc8538e24b9dcf83aca08e3b36", "sub_label": "Squad"}
+{"masked_sentences": ["['Англия может быть официально разделена на [MASK] районов.']"], "obj_label": "девять", "id": "79335fe69a4757e3edf229b1ca6cc6e61ec7e428", "sub_label": "Squad"}
+{"masked_sentences": ["['Могольская династия была создана в [MASK] году.']"], "obj_label": "1526", "id": "179cfa1786b78adce6971d822061bfd7317d5fe0", "sub_label": "Squad"}
+{"masked_sentences": ["['Язык номер один с точки зрения числа пользователей Википедии - [MASK].']"], "obj_label": "английский", "id": "370921c39d6ecf8b3dd662739e17d3646d89a36a", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] писал о космологии, в которой Земля состоит из опоры.']"], "obj_label": "Анаксимандр", "id": "fe8e18a717d84104dce27dba6485db4bdd9e6f36", "sub_label": "Squad"}
+{"masked_sentences": ["['Студенческий альбом Бритни Спирс, который она запустила после второй, назывался [MASK].']"], "obj_label": "Бритни", "id": "fb612186581e69a1cecafc6c10ab5ea282609597", "sub_label": "Squad"}
+{"masked_sentences": ["['Пиагет в своих часах в 1979 году представил [MASK] стиль.']"], "obj_label": "авангардный", "id": "b9c4f95cef0499bbc560673068ad3dcc90655835", "sub_label": "Squad"}
+{"masked_sentences": ["[' в Барклайс получил название в [MASK] году.']"], "obj_label": "1736", "id": "0dba79afc1c60403b38c86282b1a02814b50625c", "sub_label": "Squad"}
+{"masked_sentences": ["['Птенцы и мухи - это примеры [MASK].']"], "obj_label": "беспозвоночных", "id": "4784eb3c2ee9613ac337238b41b680a6555a8b11", "sub_label": "Squad"}
+{"masked_sentences": ["['Гражданство Фридриха Тренделенбурга является [MASK].']"], "obj_label": "немецким", "id": "9ef619ff3f1ef099446093fa0790a549acd2b35a", "sub_label": "Squad"}
+{"masked_sentences": ["['Специальный административный район Синуиджу был создан в [MASK] году.']"], "obj_label": "2002", "id": "06cd6d8ca169ce3f0d11ec48b3a740243dcae121", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] приносит много денег и привлекает посетителей в Шотландию.']"], "obj_label": "Туризм", "id": "58f9e53e0b50440d9c753bc29f4a20c4454874a6", "sub_label": "Squad"}
+{"masked_sentences": ["['Япония имеет [MASK] острова.']"], "obj_label": "6852", "id": "c7632eaff936abbac5fd6edd95a6b4429930266c", "sub_label": "Squad"}
+{"masked_sentences": ["['Лихтенштейн состоит из [MASK] различных общин.']"], "obj_label": "одиннадцати", "id": "d735b95aad76e17c1880ae02db3d2c313f2768ef", "sub_label": "Squad"}
+{"masked_sentences": ["['Марги Фолстич была по профессии [MASK]'.]"], "obj_label": "химиком", "id": "46b7341ce8f85b5e5892c08b7df6776254948101", "sub_label": "Squad"}
+{"masked_sentences": ["['Река Тон находится в [MASK].']"], "obj_label": "Японии", "id": "0efe4e9d73727b2c7b466c7e088984a953202cce", "sub_label": "Squad"}
+{"masked_sentences": ["['Сериал Секретные [MASK] привел Андерсона к славе.']"], "obj_label": "материалы", "id": "e9bb037614cae0981c010c3ee59d78f8932b04dd", "sub_label": "Squad"}
+{"masked_sentences": ["['Нельсон Мандела праздновал свой 70-й день рождения в [MASK] году.']"], "obj_label": "1988", "id": "8ea669bde338d0c3344d2ea5857f616e0a3ca865", "sub_label": "Squad"}
+{"masked_sentences": ["['Фредерик Уильям был вынужден бежать из [MASK].']"], "obj_label": "Берлина", "id": "c3648141f900add10fe27bec46ff3b951a1f69cf", "sub_label": "Squad"}
+{"masked_sentences": ["['Мальмёнские замки на шведском языке называются [MASK].']"], "obj_label": "Мальмёхусом", "id": "e08edd2da263036e008a3943399103e44303a431", "sub_label": "Squad"}
+{"masked_sentences": ["['Слово Ратанакири означает близнец на [MASK] языке.']"], "obj_label": "кхмерском", "id": "341119b25d9bcacb845002cf01dc5407b1e34b1e", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] создал GameCube.']"], "obj_label": "Нинтендо", "id": "9ad6872ec2b11c5c198e97fd97b3755ed0e9dd9e", "sub_label": "Squad"}
+{"masked_sentences": ["['Форд пытался купить акции компании [MASK].']"], "obj_label": "Ягуар", "id": "f498caf090725a17df5b29bddfca94526500ab49 ", "sub_label": "Squad"}
+{"masked_sentences": ["['Фильм  ужасов, которым руководил Гил Кенан в 2015 году, назывался [MASK].']"], "obj_label": "Полтергейст", "id": "a5a12851c0cfd06caa6224b34fea1c36869bb1aa", "sub_label": "Squad"}
+{"masked_sentences": ["['Сексуальная ориентация Карлайл [MASK].']"], "obj_label": "лесбиянка", "id": "165506e6054b3f6a3ddc7c7af5fa931fb5a5d581", "sub_label": "Squad"}
+{"masked_sentences": ["['Термин первый свет используется в [MASK].']"], "obj_label": "астрономии", "id": "753df03ead608dad0f319fc26f2ce3996c874344", "sub_label": "Squad"}
+{"masked_sentences": ["['Асфальтический песчаник содержит [MASK].']"], "obj_label": "уран", "id": "20d2bc0221343e97a71613a9aae97f4b9930c2c5", "sub_label": "Squad"}
+{"masked_sentences": ["['Профессия Герберта Бейкера и Эдвина Лютиенса была [MASK].']"], "obj_label": "архитектор", "id": "9bda8d3de3e6c25d14d7938e8d7ea67eb7669c06", "sub_label": "Squad"}
+{"masked_sentences": ["['Лондонская башня была основана в [MASK] году.']"], "obj_label": "1066", "id": "ddf454ed4b4168294bee053410dc78f508a80aab", "sub_label": "Squad"}
+{"masked_sentences": ["['Чарльза Эммануэля после смерти его жены стал [MASK].']"], "obj_label": "королем", "id": "5020615109c941db73534507e31bfaae07baa53f", "sub_label": "Squad"}
+{"masked_sentences": ["['Диод должен бить [MASK], чтобы создать пару дырок-электронов.']"], "obj_label": "фотодиод", "id": "f347b2e687a2a8026ef126e501c4bdc57124a2dc", "sub_label": "Squad"}
+{"masked_sentences": ["['Столица Башкирии - [MASK].']"], "obj_label": "Уфа", "id": "3b139dd12fb48340e9b9038c2daa4caf809c6eba ", "sub_label": "Squad"}
+{"masked_sentences": ["['Аарон Спеллинг был гражданином [MASK].']"], "obj_label": "США", "id": "8e50992d645b68a13508b6a8a20a277ada748917", "sub_label": "Squad"}
+{"masked_sentences": ["['Страна Бенгала - это другое название [MASK].']"], "obj_label": "Бангладеша", "id": "3051cb8bbb27521ae140f0aec17b332bbc2f2534", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] создал Falcon Heavy.']"], "obj_label": "SpaceX", "id": "0ca5d2ab6a2f95125ac476b897b43677d2e2da84", "sub_label": "Squad"}
+{"masked_sentences": ["['Первый роман Дешапанда назывался [MASK].']"], "obj_label": "Онлукер", "id": "3ba74111e44cb98fd674ec48047830d6996e5ea8", "sub_label": "Squad"}
+{"masked_sentences": ["['Клаус Эбнер провел свое детство в [MASK].']"], "obj_label": "Австрии", "id": "99c065255fb842df0cb5a63339143dca980b2ec8", "sub_label": "Squad"}
+{"masked_sentences": ["['Первый чемпионат мира ФИФА был проведен в [MASK].']"], "obj_label": "Уругвае", "id": "73e21e62b1bd95ba56054e7ea43908d3ab613bda", "sub_label": "Squad"}
+{"masked_sentences": ["['К северу от Миссури находится [MASK].']"], "obj_label": "Айова", "id": "61d077c73eefdd1c69dc230fd87c8a4d6edd7e1e", "sub_label": "Squad"}
+{"masked_sentences": ["['Первая змея, которая была подробно замечена космическим кораблем, называется [MASK].']"], "obj_label": "Гэлли", "id": "09e36b9865b8d0299418fbd66003cc55ac5c087e", "sub_label": "Squad"}
+{"masked_sentences": ["['Летние Олимпийские игры 1924 года проходили в [MASK].']"], "obj_label": "Париже", "id": "442fcd91671e2f78058f39f75c2b04bcf51fd348", "sub_label": "Squad"}
+{"masked_sentences": ["['Цвет мазонки был [MASK].']"], "obj_label": "желтый", "id": "65dc228126e362ab0837fd480b01e9c21c7aeb2f", "sub_label": "Squad"}
+{"masked_sentences": ["['Мария Тереза из [MASK].']"], "obj_label": "Австрии", "id": "33a9ac6f4ea75db8847c40ae91178b824039dfda", "sub_label": "Squad"}
+{"masked_sentences": ["['Перл Джем был создан в [MASK].']"], "obj_label": "Сиэтле", "id": "56e087fef5cbe0914515ce17a86aff2447555aa8", "sub_label": "Squad"}
+{"masked_sentences": ["['У большинства людей [MASK] хромосом.']"], "obj_label": "46", "id": "c1c6ab5fbbd9b94fa8821b61191041b0b1d4338c", "sub_label": "Squad"}
+{"masked_sentences": ["['Город Миаоли находится в [MASK].']"], "obj_label": "Тайване", "id": "d436fa739423f2c2aeabf1ca6a1ea0d525823bad", "sub_label": "Squad"}
+{"masked_sentences": ["['Дедушкой Люциуса и Гаюса Цезаря был [MASK].']"], "obj_label": "Август", "id": "fd9285b9cb5cea2cb7531a491c74405b87e6046b", "sub_label": "Squad"}
+{"masked_sentences": ["['Генри Кэбот Лодж II был сенатором Соединенных Штатов Америки идентифицировал себя с [MASK] политической партией.']"], "obj_label": "республиканской", "id": "7729d555ed1d1bedfd8f81cd671d3f518f68590b", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] создала мультик Скуби-Ду.']"], "obj_label": "Ханна Барбера", "id": "ffd3d4e19bc793a7e12607a5456bee5d41aaee47", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] - столица Византии.']"], "obj_label": "Константинополь", "id": "2e6d34de08c7c8b844de9bec83036e28db2bd16d", "sub_label": "Squad"}
+{"masked_sentences": ["['Бангкок расположен в [MASK].']"], "obj_label": "Таиланде", "id": "617fabda8bc3d4a4812814dc676686555084acf2", "sub_label": "Squad"}
+{"masked_sentences": ["['Восточная Пруссия теперь часть [MASK].']"], "obj_label": "Польши", "id": "8edfaa59b6691262c1a1fef8446d2512e83426f8", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] - административный центр Гран-Эсте.']"], "obj_label": "Страсбург", "id": "0346cb962bdb14f633749e4613f17f58a24434d7", "sub_label": "Squad"}
+{"masked_sentences": ["['Хайке Камерлингх выиграл Нобелевскую премию в [MASK] году.']"], "obj_label": "1913", "id": "3a883a8a34831a864d97529572f74c939f0351e2", "sub_label": "Squad"}
+{"masked_sentences": ["['Александр Лукашенко - губернатор [MASK].']"], "obj_label": "Белоруссии", "id": "b62abfdd941e613372bcef79a2cbfbd70dfadcc4", "sub_label": "Squad"}
+{"masked_sentences": ["['Спутник вокруг Сатурна называется [MASK].']"], "obj_label": "Эгеон", "id": "f0753b470d3c05da880caaa7aa2b7fe2258e498e", "sub_label": "Squad"}
+{"masked_sentences": ["['Префектура Шизуока расположена в [MASK].']"], "obj_label": "Японии", "id": "72d1284010ce0e98c826f75e74778a7ce5631148", "sub_label": "Squad"}
+{"masked_sentences": ["['Самый популярный спорт в Ираке - [MASK].']"], "obj_label": "футбол", "id": "b71966c9796a23481a352fa6c8ed06997972089d", "sub_label": "Squad"}
+{"masked_sentences": ["['Флокс может расцвести весной, осенью и [MASK].']"], "obj_label": "летом", "id": "36608a43020d10e1e6e3ff680732f81026945a8f", "sub_label": "Squad"}
+{"masked_sentences": ["['Иштар была [MASK].']"], "obj_label": "богиней", "id": "14ae79da2c1ef5b659703e637d6f4fded1b8692f", "sub_label": "Squad"}
+{"masked_sentences": ["['В Исландии [MASK] климат.']"], "obj_label": "умеренный", "id": "d0d5deca0ad96b7fc4a84e58863d48e7c5d29b3b", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] - это аббревиатура Калифорнийского университета.']"], "obj_label": "UCLA", "id": "cbc7d227e94f2672079a54dd2e749f6b2f6a8fdd", "sub_label": "Squad"}
+{"masked_sentences": ["['Первое животное в цикле зодиака - [MASK].']"], "obj_label": "крыса", "id": "61f0f8cea93a59f26b27b62f42ae0e1d7bd7631c", "sub_label": "Squad"}
+{"masked_sentences": ["['Фатьма Бегум имела [MASK] гражданство.']"], "obj_label": "индийское", "id": "6aa03e87c8690c7487f986f7eeff971dc8467f22", "sub_label": "Squad"}
+{"masked_sentences": ["['Песня Битлз, которая была самой запутанной, это [MASK].']"], "obj_label": "Yesterday", "id": "46383ef85c6259e96ad0693438e534eb2e1d1cd0", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] разделяет Босфорский пролив на два континента.']"], "obj_label": "Стамбул", "id": "a432fb328e4624c4c77c5268b64308c3ec18adfe", "sub_label": "Squad"}
+{"masked_sentences": ["['Назначение президента Обамы на должность директора ЦРУ было подтверждено сенатом в [MASK] году.']"], "obj_label": "2009", "id": "ef04519189eec5dea9d32feed78340592e007632", "sub_label": "Squad"}
+{"masked_sentences": ["['Google начал или проект IA в [MASK] году.']"], "obj_label": "2011", "id": "3fb8191e9ac68a364e9b03be8aa5c78f5bd76537", "sub_label": "Squad"}
+{"masked_sentences": ["['В [MASK]Америке можно найти антикв. бисон.']"], "obj_label": "Северной", "id": "2974b4b30e491092a2883f9cc381a0d8f9cb8a45", "sub_label": "Squad"}
+{"masked_sentences": ["['Наполеон занял Вену в [MASK] году.']"], "obj_label": "1805", "id": "2c610e38fbdb471e2b8bb266e4d8f109d259deb0", "sub_label": "Squad"}
+{"masked_sentences": ["['У Чогхи Занбила есть [MASK] структура.']"], "obj_label": "зиккуратная", "id": "0856cff9cf6eef86c718775dae3d83a22b35f799", "sub_label": "Squad"}
+{"masked_sentences": ["['Нижние части скопацидов имеют [MASK] цвет.']"], "obj_label": "белый", "id": "4ed93ee984343f8c04585d56c5e863bf05de13b5", "sub_label": "Squad"}
+{"masked_sentences": ["['Звание Жан-Баптиста Бессерса было [MASK].']"], "obj_label": "маршал", "id": "7bcca4b33672d63ee6a72a2f7e4b8c6c20c11c44", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] - развлекательная платформа, которая объявила о реконструкции Ласт-Уик-Тонита к 2020 году.']"], "obj_label": "HBO", "id": "2a8e4366e5cbd3715ca77c99525de79ecd70d1b3", "sub_label": "Squad"}
+{"masked_sentences": ["['Флеминг умер в [MASK] году.']"], "obj_label": "1597", "id": "e39d3ff23b1393fedbc03ad7e45b475b3f20ec72", "sub_label": "Squad"}
+{"masked_sentences": ["['Организация, считающая природные районы объектами всемирного наследия, называется [MASK].']"], "obj_label": "Юнеско", "id": "9bd2a1a21fad2cdfeaf2587bacd99870969c1665", "sub_label": "Squad"}
+{"masked_sentences": ["['Агуста Уэстланд делала [MASK].']"], "obj_label": "вертолеты", "id": "15cc1c00f2cb64cc1e2cb16dd0666e87ecae70d3", "sub_label": "Squad"}
+{"masked_sentences": ["['Столица Мадагаскара - [MASK].']"], "obj_label": "Антананариву", "id": "7b0c822eacfb78195a30b20ba8713f3cb6c94c7a", "sub_label": "Squad"}
+{"masked_sentences": ["['Самый популярный рынок в Вене - [MASK].']"], "obj_label": "Нашмаркт", "id": "9a5b142c492f7da445e970695e91386beebdcc0c", "sub_label": "Squad"}
+{"masked_sentences": ["['Дэвид Герберт родился в [MASK] году.']"], "obj_label": "1885", "id": "61046f5f46db4f4747942d81faf0d16f687bf2cb", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] был Богом Солнца в греческой мифологии.']"], "obj_label": "Гелиос", "id": "76dd41c79de17d5f74fc7d2962ab2592ef867836", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] - это термин, используемый в случае расходования средств в связи с использованием активов.']"], "obj_label": "Амортизация", "id": "f751a12fd134f42d38573385d198696b96425899", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] была континентом, на который обычно приходилась бóльшая часть поверхности Земли.']"], "obj_label": "Пангея", "id": "7ad1fb8ac27ecde1c8cc2230cea0017ec4e59d4b ", "sub_label": "Squad"}
+{"masked_sentences": ["['Стив Джобс умер в [MASK].']"], "obj_label": "2011", "id": "47badb9030ee1897d3ffc9af0c8b392332c372d9", "sub_label": "Squad"}
+{"masked_sentences": ["['В [MASK] была проведена финальная сессия Лиги Чемпионов 2005 года.']"], "obj_label": "Стамбуле", "id": "86135e1378652e1c8658fd89e7eccd9bdadd0313", "sub_label": "Squad"}
+{"masked_sentences": ["['Чкалов специализировался на [MASK].']"], "obj_label": "авиации", "id": "248a34333357867ea9dd48f1dba9fdf02108731e ", "sub_label": "Squad"}
+{"masked_sentences": ["['Спортивные турниры начались в [MASK].']"], "obj_label": "Персии", "id": "ede93bfba7639704679bfd6be7bf817be43ef872", "sub_label": "Squad"}
+{"masked_sentences": ["['Дэвид Миллер известен за разработку [MASK].']"], "obj_label": "Linux", "id": "ca71f97e80150877741a794c88c023cb70121f95", "sub_label": "Squad"}
+{"masked_sentences": ["['Хроники Сары Коннор транслировались на канале [MASK]']"], "obj_label": "Фокс", "id": "9b83715dfb878ae80df26d22255b812c507db0ba", "sub_label": "Squad"}
+{"masked_sentences": ["['Примерно в 170 км от Багдада находится [MASK].']"], "obj_label": "Куфа", "id": "d1d2d8d0ae0044ed4a9c7a2df041a6a4e3cbd15f", "sub_label": "Squad"}
+{"masked_sentences": ["['Великая депрессия началась в [MASK] году.']"], "obj_label": "1929", "id": "c7830cb7ac8c91f12ae71648ecf201e61fba250b", "sub_label": "Squad"}
+{"masked_sentences": ["['Ньюфаундленд стал частью Канады в [MASK] году.']"], "obj_label": "1949", "id": "bbaadd24ca3ccfc1bef0cddbaf06a0d395c9022c", "sub_label": "Squad"}
+{"masked_sentences": ["['Найсвилл находится во [MASK].']"], "obj_label": "Флориде", "id": "f1c1389c0b66370885ec66f3e1e33672a1afcc29", "sub_label": "Squad"}
+{"masked_sentences": ["['Одним из дистрибутивов для DKMS, написанных инженерной группой Linux в Делле в 2003 году, является [MASK].']"], "obj_label": "Убунту", "id": "b2d0fdaf4ec110f621bbd7a43823394c49d67177", "sub_label": "Squad"}
+{"masked_sentences": ["['Тобаго переехал в Британию в [MASK] году.']"], "obj_label": "1802", "id": "e4e4e32a383888fbb887aa82e09ff5f4198d2a40", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] был создателем Tower-Fall.']"], "obj_label": "Торсон ", "id": "e0fb7f7b6a8cf360150c594c6f51f83e56f71b63", "sub_label": "Squad"}
+{"masked_sentences": ["['Мамелуки вошли в Сирию в [MASK] году.']"], "obj_label": "1261", "id": "90f973c7329c308f0445cd81ed02d6027de12425", "sub_label": "Squad"}
+{"masked_sentences": ["['В XIX и XX веках в основном в Нью - Йорке были построены [MASK].']"], "obj_label": "небоскребы", "id": "bfde048e097401706eed37e21bfaf75c2b2fb7af", "sub_label": "Squad"}
+{"masked_sentences": ["['Профессия Виллиана Томаса Грина Мортона была [MASK].']"], "obj_label": "стоматолог", "id": "38b2ac9a1283d033b8c15774170d522853f38df5", "sub_label": "Squad"}
+{"masked_sentences": ["['Религия семьи Франкла была [MASK].']"], "obj_label": "еврейской", "id": "c7e24bc7f5aaf6fcccbd7c6bb724435ab9bfb942", "sub_label": "Squad"}
+{"masked_sentences": ["['В [MASK] году был построен аэропорт Познань-Лавика Хенрик Виенявки.']"], "obj_label": "1913", "id": "72a7a8aeddcc1a17e039b288766ca3793c1db9f9 ", "sub_label": "Squad"}
+{"masked_sentences": ["['Траоре родился в [MASK] году.']"], "obj_label": "1974", "id": "ea7b1a28ca38687ee4f693aba6d88143617af514", "sub_label": "Squad"}
+{"masked_sentences": ["['Судно из Сидонии основано главным образом на [MASK] культуре.']"], "obj_label": "японской", "id": "56ee2e197788a19c9a498d244385da99a70114e8", "sub_label": "Squad"}
+{"masked_sentences": ["[Патум Тани является центральной провинцией [MASK].']"], "obj_label": "Таиланда", "id": "ec4fbd838bdf6e6dd8b5957e76d55683a8411696", "sub_label": "Squad"}
+{"masked_sentences": ["['Фильм Трансформеры вышел в [MASK] году.']"], "obj_label": "2007", "id": "7c15735bea0d4c5bc52941c8e61b5618bcbf41ee", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] объединяются, чтобы создать ННО.']"], "obj_label": "Нуклеиновые", "id": "0b21d2182c42b3844459625df00d17766bda6820", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] используется всеми социальными сетями, такими, как Facebook или Meetup.']"], "obj_label": "Интернет", "id": "9b82bca7a15c3d2e957e5167e55d4572d55e2fe2", "sub_label": "Squad"}
+{"masked_sentences": ["['Поверхность планеты Седна [MASK].']"], "obj_label": "красная", "id": "c2649b7aa6c532df1a9cd51f75791d49d03f6a07", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] зафиксировал племена и география Ирландии в 100 СЕ.']"], "obj_label": "Птолемей", "id": "9a376e789d10ecea2b7b469d38895ff2739a2551", "sub_label": "Squad"}
+{"masked_sentences": ["['В [MASK] году Пакистан принял Конституцию.']"], "obj_label": "1956", "id": "db8ad238e636314edbb75c8eeba02bf6cb87b003", "sub_label": "Squad"}
+{"masked_sentences": ["['Кеннеди был убит в [MASK] году.']"], "obj_label": "1963", "id": "cbeb9cccafacb5b87f4491ebf38b3a14fc969f00", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] интегрировал инфраструктуру MVC и AJAX в платформу для разработки искусств.']"], "obj_label": "Майкрософт", "id": "e6cdaa12ad273b0327c44dcfd33b1132d640c1ca", "sub_label": "Squad"}
+{"masked_sentences": ["['Популярный спорт в Пакистане - [MASK].']"], "obj_label": "хоккей", "id": "057289e3a225c05c002649075c08bd87ed3ba3b6", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] - это обесцененивание валют.']"], "obj_label": "Инфляция", "id": "c7d78142da87546dc101149ee735157857d46363", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] считают, что философский камень имеет более долгую историю, чем 300 до н.э..']"], "obj_label": "Алхимики", "id": "307ceb81087c2bd99ce6a6ffb6799486ae0183f4", "sub_label": "Squad"}
+{"masked_sentences": ["['Померания - это [MASK].']"], "obj_label": "собака", "id": "870de9555bdde4c0cf7b57f623c23542a8a80be2", "sub_label": "Squad"}
+{"masked_sentences": ["['Густав Фрейтаг был [MASK].']"], "obj_label": "писателем", "id": "d78557a3727f5d8874b883b33e21581d562140fe", "sub_label": "Squad"}
+{"masked_sentences": ["['Перед тем, как стать супергероем, Человек-муравей был [MASK].']"], "obj_label": "вором", "id": "9b42bb33a424635774230a97fdc16d151d10562c", "sub_label": "Squad"}
+{"masked_sentences": ["['Имя программного обеспечения  скринкастинга - [MASK].']"], "obj_label": "ActivePresenter", "id": "ba4a15cc3112237d1d3280219c0e65bdd2b997cc", "sub_label": "Squad"}
+{"masked_sentences": ["['Серная кислота используется в качестве [MASK].']"], "obj_label": "катализатора", "id": "9c1cf7a5ae88441a10fc0a70f749b11969f77aa7", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] может перенаправить действия человека.']"], "obj_label": "Критическое", "id": "1a69b5194c313ab0105ec6032dd2a7be3d9ed51b", "sub_label": "Squad"}
+{"masked_sentences": ["['Авровиль  находится в [MASK].']"], "obj_label": "Индии", "id": "f976a4cc1dfe3dc81e771756f5a8712ea995430c", "sub_label": "Squad"}
+{"masked_sentences": ["['На латыни колени называются [MASK].']"], "obj_label": "Ажена", "id": "cf37516242a0b7a411c08b750c81a0fb01a3d7bb", "sub_label": "Squad"}
+{"masked_sentences": ["['До ручки [MASK] был самым популярным инструментом письма.']"], "obj_label": "Паркер", "id": "4204709c819eeffe873fdf1077a7b39e10c9c86d", "sub_label": "Squad"}
+{"masked_sentences": ["['Aerosmith выиграл [MASK] наград MTV.']"], "obj_label": "десять", "id": "aaf6773cd9e884d95af1cdf0e527cb8fdb366f5c", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] ядро не было одобрено для Linux']"], "obj_label": "Монолитное", "id": "f019a39c41fd4ce2e439e6e72ee950779ee37c78", "sub_label": "Squad"}
+{"masked_sentences": ["['Парсонс выиграл [MASK] награды Эмми.']"], "obj_label": "четыре", "id": "fca0c25ae12434d6f055b203b60ab88edb47569d", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] влияет на Java.']"], "obj_label": "C++", "id": "3e9ab79365b7f752b5409f806937e73d22019b7f", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] - это литературный термин, означающий появление персонажа истории.']"], "obj_label": "Флэшбэк", "id": "81c448efc65fdf781d7bdfed23f08ef2301cce05", "sub_label": "Squad"}
+{"masked_sentences": ["['Отто что-то пробовал в области математики в [MASK] году.']"], "obj_label": "1882", "id": "7f84f9f4c906264fdc62c3e668f70c801533528a", "sub_label": "Squad"}
+{"masked_sentences": ["['Ричард Розенблат - бывший президент [MASK].']"], "obj_label": "Myspace", "id": "ed50193a5458a4cce11241cbafdb6a00e796e043 ", "sub_label": "Squad"}
+{"masked_sentences": ["['Палаццо Браски находится в [MASK.']"], "obj_label": "Риме", "id": "ff77ceef336da122c54cbc74cd7dbc3d24315827", "sub_label": "Squad"}
+{"masked_sentences": ["['На [MASK] существует прогрессивная народная рабочая партия.']"], "obj_label": "Кипре", "id": "49940e201994da7df396332d6d385055736e1000", "sub_label": "Squad"}
+{"masked_sentences": ["['Грейс Харбор находится в [MASK].']"], "obj_label": "Вашингтоне", "id": "ad99d5318b3321e694981868b20aa6d72225a6f5", "sub_label": "Squad"}
+{"masked_sentences": ["['Результат реакции H2 и радиации - [MASK].']"], "obj_label": "H3+", "id": "c67114096a35d002cb72bb15fd11700899f0c12c", "sub_label": "Squad"}
+{"masked_sentences": ["['Юстон был в [MASK].']"], "obj_label": "Пиккадилли", "id": "82660ade6f4639ba710d7db116f54d212e77b4f7", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] - это болезнь, которая представляет собой комбинацию Эболы и оспы.']"], "obj_label": "Эболапокс", "id": "883dd57f2146b853061b08abda467b99422e4396", "sub_label": "Squad"}
+{"masked_sentences": ["['Промышленная и административная электростанция бывшего Советского Союза находилась в [MASK].']"], "obj_label": "Свердловске", "id": "5564c2fe1892d8784c0c52462826214d10b0dcb2", "sub_label": "Squad"}
+{"masked_sentences": ["['Самый большой город в Бангладеш - [MASK].']"], "obj_label": "Дака", "id": "c475fa0c577b77dd356ce563ac1319fd85d16503", "sub_label": "Squad"}
+{"masked_sentences": ["['Винчестер находится в [MASK].']"], "obj_label": "Англии", "id": "68f536c1c3eb2fffde6a77ab475bca405294ec15", "sub_label": "Squad"}
+{"masked_sentences": ["['Когда Хепберн умер, ему было [MASK] года.']"], "obj_label": "63", "id": "a4aca23bf16ffad156262342c15d6077e48828a8", "sub_label": "Squad"}
+{"masked_sentences": ["['Перед тем, как превратиться в эмболизм, тромбо становится [MASK].']"], "obj_label": "эмболом", "id": "9faa6fd2c7da45790670a264c7b01c82fa0fa20e", "sub_label": "Squad"}
+{"masked_sentences": ["['Окончательная стадия изопрена, который может быть преобразован в холестерин и эргостерин, - это [MASK].']"], "obj_label": "ланостерол", "id": "69bed467545021468400267b1fbc14730b3c113e", "sub_label": "Squad"}
+{"masked_sentences": ["['Массовое производство чистого оксида началось в [MASK] году.']"], "obj_label": "1942", "id": "81c8b8d1f3e0e79234ca8410481d0a9ea5002904", "sub_label": "Squad"}
+{"masked_sentences": ["['Слово [MASK] было восстановлено, когда Губерния перестала употребляться.']"], "obj_label": "губернатор", "id": "b2cc3fc24a8bd337423b3a9fd89b47af37ce1978", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] пришлось прибегнуть к иностранной помощи после многих лет коррупции и засухи в 90-х годах.']"], "obj_label": "Камеруну", "id": "ca2dedaddc743d2fcbcc2248a751f50bd41b0ae6", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] изобрёл теорию о том, что земля неподвижна.']"], "obj_label": "Платон", "id": "e3d3b455a4b5b4442e55ea47fe141c508a2cb69f", "sub_label": "Squad"}
+{"masked_sentences": ["['Большая часть человечества живет в [MASK].']"], "obj_label": "Азии", "id": "dccd54312df4926e03738b7dffaddb8046006886", "sub_label": "Squad"}
+{"masked_sentences": ["['Ленин умер в [MASK] году.']"], "obj_label": "1924", "id": "7494594787175a4427383cdf4a066744576228db", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] был монахом, который написал письмо Ивану III.']"], "obj_label": "Филофей", "id": "765ea3da1833f507c28109e65c92964fbb2d2481", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] может вызвать удушение, если его не восстановят растительность.']"], "obj_label": "Кислород", "id": "baa57fc7a5f97522d6279bb5084756c1df53c526", "sub_label": "Squad"}
+{"masked_sentences": ["['Большая часть полимера на Земле состоит из [MASK].']"], "obj_label": "целлюлозы", "id": "fbcb83a5f68d32035bd2f59750cb265068dc28d8", "sub_label": "Squad"}
+{"masked_sentences": ["['Гамильтон объясняет альтруизм с [MASK] точки зрения.']"], "obj_label": "эволюционной", "id": "db0b7d03497af2d1c7d1a7ce5e7940b9bac739b1", "sub_label": "Squad"}
+{"masked_sentences": ["['Блэк Саббат записал демо с Бобом Эзрином в [MASK].']"], "obj_label": "октябре", "id": "913b83babc65c9ae9ea0fa118154b38ef9e7498e", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] был связан с Нью-Йорком в 1940-х.']"], "obj_label": "Джаз", "id": "afab49079ad68229d3259a38f52c718e0dbb4658", "sub_label": "Squad"}
+{"masked_sentences": ["['Ридли Скотт режиссер фильма [MASK].']"], "obj_label": "Инопланетянин", "id": "ee90b7002493de0ddb69e6a8c421a905c4801cae", "sub_label": "Squad"}
+{"masked_sentences": ["['Христофор Колумб прибыл на Ямайку, потерпев [MASK].']"], "obj_label": "кораблекрушение", "id": "5f7b75a38ed38ae5db4cb816fc4f88285312f406", "sub_label": "Squad"}
+{"masked_sentences": ["['Архитектор Франциско Фернандо был убит в [MASK].']"], "obj_label": "Сараево", "id": "f62162792554df46f5abcc15222cfd4c8a447de2", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] отвечает за предотвращение Рагнарока.']"], "obj_label": "Тор", "id": "18da0aa2e33a1c0d56990fe2943adb01baed0c72", "sub_label": "Squad"}
+{"masked_sentences": ["['Джоан Лин была [MASK].']"], "obj_label": "актрисой", "id": "651e2128241e44f2abcc8e531ce410fdbe9f3519", "sub_label": "Squad"}
+{"masked_sentences": ["[Летом 1987 года [MASK] совершила глобальный тур под названием Who's That Girl World Tour\"]\""], "obj_label": "Мадонна", "id": "4b1801bfb13bc66b64c093430bf58f7e0918acd8", "sub_label": "Squad"}
+{"masked_sentences": ["['В [MASK] году Джокер был впервые включен во вселенную Бэтмен.']"], "obj_label": "1940", "id": "f2d58e21decdfa9ea6735118809e8f4ab975454b ", "sub_label": "Squad"}
+{"masked_sentences": ["[\"Т'Чалла представляет [MASK] в Организации Объединенных Наций.\"]"], "obj_label": "Ваканду", "id": "499b09be196c588e2c22eea14f546ff7d48cbe56", "sub_label": "Squad"}
+{"masked_sentences": ["['Кидман получил свою звезду на прокате славы в [MASK] году.']"], "obj_label": "2003", "id": "2fcb197ce583250e2a36737fd19bf534eb99965e", "sub_label": "Squad"}
+{"masked_sentences": ["['Рапунцель была заперта в [MASK].']"], "obj_label": "башне", "id": "2129b09ec5e0357bc38dabb75336be3feaad49d5", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] используется для определения обменных курсов Биткоина.']"], "obj_label": "Кортана", "id": "e3b043cf7679e3cb9840319a51ed3956f36fe18c", "sub_label": "Squad"}
+{"masked_sentences": ["['Гражданство Ези - [MASK].']"], "obj_label": "южнокорейское", "id": "5f4501ebe03f10f47f251113619243a721eed703", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] установил более тесные отношения с Турцией.']"], "obj_label": "Азербайджан", "id": "4b3669ab5e1f999797fcf2d4cb24d080dc6ddc1d", "sub_label": "Squad"}
+{"masked_sentences": ["['Дом Науру расположен в [MASK].']"], "obj_label": "Мельбурне", "id": "1b78ed1e4a046198c76aab8b8dfb7f3e5cbcc7cc", "sub_label": "Squad"}
+{"masked_sentences": ["['Профессия Патрика Рассела [МАСК].']"], "obj_label": "герпетолог", "id": "2c230994fdfec706ef58b92dcc5f472e722782b7", "sub_label": "Squad"}
+{"masked_sentences": ["['Братислава находится в [MASK].']"], "obj_label": "Словакии", "id": "6c7e392aef9184be88ba29dc4ec48935009ebead", "sub_label": "Squad"}
+{"masked_sentences": ["['Наиболее важные ископаемые в Тарбозаурусе были обнаружены в [MASK].']"], "obj_label": "Монголии", "id": "d5df9dab8fb8f4f1e1b08130454bb7dee77df3a9", "sub_label": "Squad"}
+{"masked_sentences": ["['Самоубийца совершает [MASK].']"], "obj_label": "суицид", "id": "40bc4081891bab3469d0349105f1ec2bae924558", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] - это термин, используемый для широко распространенных международных вспышек вирусных инфекций.']"], "obj_label": "Пандемия", "id": "60d0d9de1209bede79a4f368da109eb2d80493e8", "sub_label": "Squad"}
+{"masked_sentences": ["['Можно использовать [MASK], чтобы отделить цвета от белого света.']"], "obj_label": "призму", "id": "f4583b61d832704cc5297283ddd0a679e092434d", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] обычно использовались советскими союзниками и многими странами во время Варшавского договора']"], "obj_label": "Су-100", "id": "fd01a94da760484c4b25b91008c9c3b46d3f9de4", "sub_label": "Squad"}
+{"masked_sentences": ["['Карфагенцы покинули [MASK] после поражения римлян.']"], "obj_label": "Картахену", "id": "32574694e5353f5d4214d14c7d37b6b73f1d8387 ", "sub_label": "Squad"}
+{"masked_sentences": ["['Андрес Каламаро является гражданином [MASK].']"], "obj_label": "Аргентины", "id": "e375edfae5d1c08f84c1fed94fe3b0f24c987b00", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] - язык векторного дизайна.']"], "obj_label": "Постскрипт", "id": "13a134ab90d4634f46c77e2185f18a8d07c1f02f", "sub_label": "Squad"}
+{"masked_sentences": ["['Любимый спорт в Малави - это [MASK].']"], "obj_label": "футбол", "id": "519671b9c766b4b7c44bd53b950d0f8e72f0eafa", "sub_label": "Squad"}
+{"masked_sentences": ["['Дэн Шнайдер работал в [MASK].']"], "obj_label": "Никелодеон", "id": "e8fd6566bbf7af293ec91227ff7a61116fe086af", "sub_label": "Squad"}
+{"masked_sentences": ["['Надежда по-итальянски называется [MASK].']"], "obj_label": "эсперанса", "id": "f5c5687095be220eea997d7393b94431e5fc7ac8", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] имеет слой водорода и ядро.']"], "obj_label": "Солнце", "id": "503fde204c8cde02f64b812350f338838da14acf", "sub_label": "Squad"}
+{"masked_sentences": ["['Рональд Рейган был избран в [MASK] году.']"], "obj_label": "1980", "id": "5407a15f1f602b5dc85cf2ae75b42daecc8b6544", "sub_label": "Squad"}
+{"masked_sentences": ["['Фейман любил говорить о [MASK].']"], "obj_label": "физике", "id": "3a22e36cfab6bc129ef9d5ed72f5f8e86a7ac990", "sub_label": "Squad"}
+{"masked_sentences": ["['Помимо греческих колоний в Египте, в [MASK].']"], "obj_label": "Ливии", "id": "f25ff29b4f2469ff27b6ff524e3045c1424b87d3", "sub_label": "Squad"}
+{"masked_sentences": ["['Бурдж Халифа находится в [MASK].']"], "obj_label": "Дубаи", "id": "13ca16d72d001da21af2608a2e6c25a944d88d0e", "sub_label": "Squad"}
+{"masked_sentences": ["['Глаза имеют [MASK] форму.']"], "obj_label": "овальную", "id": "dd606b63df508d25db9efd5a4b0b0b3270d47138", "sub_label": "Squad"}
+{"masked_sentences": ["['Г-н и г-жа Клинтон встретились в [MASK]']"], "obj_label": "Йеле", "id": "aecee3f95387828088ef5a03788ae9ed76dca633", "sub_label": "Squad"}
+{"masked_sentences": ["['Алибаба, Амазон и [MASK] - самые большие магазины в истории.']"], "obj_label": "eBay", "id": "757a14953df9eb5a225cbf90f16c770770ab90c2", "sub_label": "Squad"}
+{"masked_sentences": ["['Лене Коппен соревновалась в [MASK], когда выиграла отдельные титулы All England и World Championship.']"], "obj_label": "бадминтоне", "id": "8baa60072c513a4cd17805f91602d587bd90e8cf", "sub_label": "Squad"}
+{"masked_sentences": ["['Церемония бракосочетания Бонапарта состоялась в [MASK].']"], "obj_label": "Брюсселе", "id": "f9398a1129a32d8f6472543563a31c9a9422d407", "sub_label": "Squad"}
+{"masked_sentences": ["['Состояние без болезней называется [MASK]']"], "obj_label": "гомеостаз", "id": "e03c041634f103a0fb6fc5c080494f90b1c7445c", "sub_label": "Squad"}
+{"masked_sentences": ["['Стерилизация хирургических инструментов предотвращает [MASK].']"], "obj_label": "бактерии", "id": "1380ef4d548c0f3a3650015ce7b32a126f0474ca", "sub_label": "Squad"}
+{"masked_sentences": ["['[MASK] грипп более распространен.']"], "obj_label": "Зимой", "id": "15b82f5971080493c19c62128fa4d3dea68a9934 ", "sub_label": "Squad"}
+{"masked_sentences": ["['Университет Отемон Гакуин расположен в [MASK].']"], "obj_label": "Осаке", "id": "9cc42e73b343e0a3d8eba9742e33d7e3b2703304", "sub_label": "Squad"}
+{"masked_sentences": ["['Вторая мировая война началась в [MASK] году.']"], "obj_label": "1939", "id": "079a60c3083144048a4c2487252916b599e622f9", "sub_label": "Squad"}
+{"masked_sentences": ["['Кеша подписала контракт с съемочной компанией [MASK].']"], "obj_label": "RCA", "id": "0ceafb58a2309f782cce00774b896bfbff51503d", "sub_label": "Squad"}
+{"masked_sentences": ["[' Фильм Матрица вышел в [MASK] году.']"], "obj_label": "1999", "id": "038c67211e4ded801c5973e9188f4c0b60271ded", "sub_label": "Squad"}
+{"masked_sentences": ["['Перси Лебарон Спенсер родился в [MASK] году.']"], "obj_label": "1894", "id": "93315e061157cd612139f75ec7273fc4e8a7fc2b", "sub_label": "Squad"}
