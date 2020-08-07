@@ -88,7 +88,7 @@
 {"masked_sentences": ["David Miller es conocido por desarrollar [MASK]."], "obj_label": "Linux", "id": "ca71f97e80150877741a794c88c023cb70121f95", "sub_label": "Squad"}
 {"masked_sentences": ["Las Crónicas de Sarah Connor se emitió en [MASK]."], "obj_label": "Fox", "id": "9b83715dfb878ae80df26d22255b812c507db0ba", "sub_label": "Squad"}
 {"masked_sentences": ["Aproximadamente a 170 kilómetros de Bagdad se encuentra [MASK]."], "obj_label": "Kufa", "id": "d1d2d8d0ae0044ed4a9c7a2df041a6a4e3cbd15f", "sub_label": "Squad"}
-{"masked_sentences": ["La Gran Depresión comenzón en[MASK]."], "obj_label": "1929", "id": "c7830cb7ac8c91f12ae71648ecf201e61fba250b", "sub_label": "Squad"}
+{"masked_sentences": ["La Gran Depresión comenzón en [MASK]."], "obj_label": "1929", "id": "c7830cb7ac8c91f12ae71648ecf201e61fba250b", "sub_label": "Squad"}
 {"masked_sentences": ["Newfoundland se convirtió en parte de Canadá en [MASK]"], "obj_label": "1949", "id": "bbaadd24ca3ccfc1bef0cddbaf06a0d395c9022c", "sub_label": "Squad"}
 {"masked_sentences": ["Niceville se encuentra en [MASK]."], "obj_label": "Florida", "id": "f1c1389c0b66370885ec66f3e1e33672a1afcc29", "sub_label": "Squad"}
 {"masked_sentences": ["Una de las distribuciones para DKMS escritas por el equipo de ingenieros de Linux en Dell en 2003 es  [MASK]."], "obj_label": "Ubuntu", "id": "b2d0fdaf4ec110f621bbd7a43823394c49d67177", "sub_label": "Squad"}
@@ -112,7 +112,7 @@
 {"masked_sentences": ["[MASK] integró las infraestructuras MVC y AJAX en una plataforma de desarrollo de artilugios."], "obj_label": "Microsoft", "id": "e6cdaa12ad273b0327c44dcfd33b1132d640c1ca", "sub_label": "Squad"}
 {"masked_sentences": ["Un deporte popular en Pakistán es [MASK]."], "obj_label": "hockey", "id": "057289e3a225c05c002649075c08bd87ed3ba3b6", "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] la depreciación de las monedas."], "obj_label": "inflación", "id": "c7d78142da87546dc101149ee735157857d46363", "sub_label": "Squad"}
-{"masked_sentences": ["[MASK]piensan que la piedra filosofal tienen una historia más larga que 300 AD."], "obj_label": "alquímicos", "id": "307ceb81087c2bd99ce6a6ffb6799486ae0183f4", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] piensan que la piedra filosofal tienen una historia más larga que 300 AD."], "obj_label": "alquímicos", "id": "307ceb81087c2bd99ce6a6ffb6799486ae0183f4", "sub_label": "Squad"}
 {"masked_sentences": ["un Pomerania es un [MASK]."], "obj_label": "perro", "id": "870de9555bdde4c0cf7b57f623c23542a8a80be2", "sub_label": "Squad"}
 {"masked_sentences": ["Gustav Freytag fue un [MASK]."], "obj_label": "escritor", "id": "d78557a3727f5d8874b883b33e21581d562140fe", "sub_label": "Squad"}
 {"masked_sentences": ["Antes de ser Ant-Man fue un [MASK]."], "obj_label": "ladrón", "id": "9b42bb33a424635774230a97fdc16d151d10562c", "sub_label": "Squad"}
@@ -156,7 +156,7 @@
 {"masked_sentences": ["Ridley Scott dirigió la película [MASK]."], "obj_label": "Alien", "id": "ee90b7002493de0ddb69e6a8c421a905c4801cae", "sub_label": "Squad"}
 {"masked_sentences": ["Cristóbal Colón llegó a Jamaica [MASK]."], "obj_label": "náufrago", "id": "5f7b75a38ed38ae5db4cb816fc4f88285312f406", "sub_label": "Squad"}
 {"masked_sentences": ["Al archiduque Francisco Fernando asesinaron en [MASK]."], "obj_label": "Sarajevo", "id": "f62162792554df46f5abcc15222cfd4c8a447de2", "sub_label": "Squad"}
-{"masked_sentences": ["[MASK]es responsable de prevenir Ragnarok."], "obj_label": "Thor", "id": "18da0aa2e33a1c0d56990fe2943adb01baed0c72", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es responsable de prevenir Ragnarok."], "obj_label": "Thor", "id": "18da0aa2e33a1c0d56990fe2943adb01baed0c72", "sub_label": "Squad"}
 {"masked_sentences": ["La profesión de Joan Lin era [MASK]."], "obj_label": "actriz", "id": "651e2128241e44f2abcc8e531ce410fdbe9f3519", "sub_label": "Squad"}
 {"masked_sentences": ["En el verano de 1987 [MASK] realizó una gira mundial llamada Who's That Girl World Tour."], "obj_label": "Madonna", "id": "4b1801bfb13bc66b64c093430bf58f7e0918acd8", "sub_label": "Squad"}
 {"masked_sentences": ["Se introdujo por primera vez al Joker en el universo Batman en [MASK]."], "obj_label": "1940", "id": "f2d58e21decdfa9ea6735118809e8f4ab975454b ", "sub_label": "Squad"}
@@ -172,7 +172,7 @@
 {"masked_sentences": ["Los fósiles más importantes de Tarbosaurus se han encontrado en [MASK]."], "obj_label": "Mongolia", "id": "d5df9dab8fb8f4f1e1b08130454bb7dee77df3a9", "sub_label": "Squad"}
 {"masked_sentences": ["La asesina se hace [MASK]."], "obj_label": "suicide", "id": "40bc4081891bab3469d0349105f1ec2bae924558", "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] es el término utilizado para los brotes internacionales generalizados de infecciones virales."], "obj_label": "pandemia", "id": "60d0d9de1209bede79a4f368da109eb2d80493e8", "sub_label": "Squad"}
-{"masked_sentences": ["Se puede usar[MASK] para separar los colores de la luz blanca."], "obj_label": "prisma", "id": "f4583b61d832704cc5297283ddd0a679e092434d", "sub_label": "Squad"}
+{"masked_sentences": ["Se puede usar [MASK] para separar los colores de la luz blanca."], "obj_label": "prisma", "id": "f4583b61d832704cc5297283ddd0a679e092434d", "sub_label": "Squad"}
 {"masked_sentences": ["Se usó generalmente [MASK] por los aliados soviéticos y muchos países durante el Pacto de Varsovia"], "obj_label": "SU-100", "id": "fd01a94da760484c4b25b91008c9c3b46d3f9de4", "sub_label": "Squad"}
 {"masked_sentences": ["Los cartaginense se retiraron a [MASK] tras su derrota por los romanos."], "obj_label": "Cartagena", "id": "32574694e5353f5d4214d14c7d37b6b73f1d8387 ", "sub_label": "Squad"}
 {"masked_sentences": ["Andrés Calamaro es de nacionalidad [MASK]."], "obj_label": "argentino", "id": "e375edfae5d1c08f84c1fed94fe3b0f24c987b00", "sub_label": "Squad"}
