@@ -1,5 +1,5 @@
 {"masked_sentences": ["Байрон заболел [MASK] в Миссолонги."], "obj_label": "лихорадкой", "id": 12786, "sub_label": "Squad"}
-{"masked_sentences": ["Bзлишки тепла у млекопитающих отводятся [MASK]."], "obj_label": "потоотделением", "id": 39919, "sub_label": "Squad"}
+{"masked_sentences": ["Излишки тепла у млекопитающих отводятся [MASK]."], "obj_label": "потоотделением", "id": 39919, "sub_label": "Squad"}
 {"masked_sentences": ["Кристаллы различной формы имеют [MASK] вершины."], "obj_label": "острые", "id": 70862, "sub_label": "Squad"}
 {"masked_sentences": ["Виноградов предложил [MASK] методов оценки модуля тригонометрических сумм."], "obj_label": "два", "id": 23098, "sub_label": "Squad"}
 {"masked_sentences": ["Группы: Devo, Suicide, Television, Talking Heads являются представителями [MASK]."], "obj_label": "постпанка", "id": 69511, "sub_label": "Squad"}
@@ -23,12 +23,12 @@
 {"masked_sentences": ["[MASK] ввел термин идеализм в философию."], "obj_label": "Лейбниц", "id": 20176, "sub_label": "Squad"}
 {"masked_sentences": ["В 2014 году группа Linkin Park выпустила [MASK] по счету студийный альбом."], "obj_label": "шестой", "id": 24724, "sub_label": "Squad"}
 {"masked_sentences": ["Пещеры, образованные волнами морей и океанов в прибрежных скалах, называют [MASK]."], "obj_label": "абразионными", "id": 27202, "sub_label": "Squad"}
-{"masked_sentences": ["Леонардо да Винчи признавал [MASK] ]единственным критерием истины."], "obj_label": "опыт", "id": 16992, "sub_label": "Squad"}
+{"masked_sentences": ["Леонардо да Винчи признавал [MASK] единственным критерием истины."], "obj_label": "опыт", "id": 16992, "sub_label": "Squad"}
 {"masked_sentences": ["В металлургии для раскисления применяется  [MASK]."], "obj_label": "кальций", "id": 7716, "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] стал столицей империи Цинь."], "obj_label": "Сяньян", "id": 22688, "sub_label": "Squad"}
 {"masked_sentences": ["Результаты [MASK] деятельности не могут быть объектами права собственности."], "obj_label": "интеллектуальной", "id": 52636, "sub_label": "Squad"}
 {"masked_sentences": ["Самки перепончатокрылых имеют [MASK] набор хромосом."], "obj_label": "двойной", "id": 21345, "sub_label": "Squad"}
-{"masked_sentences": ["Дми́трий Ива́нович Менделе́ев родился в [MASK]. "], "obj_label": "Тобольск", "id": 13207, "sub_label": "Squad"}
+{"masked_sentences": ["Дми́трий Ива́нович Менделе́ев родился в [MASK]. "], "obj_label": "Тобольске", "id": 13207, "sub_label": "Squad"}
 {"masked_sentences": ["Вирусы,которые зависят от присутствия в клетке-хозяине другого вируса, называются [MASK]."], "obj_label": "вирусами-сателлитами", "id": 39856, "sub_label": "Squad"}
 {"masked_sentences": ["Дыша воздухом с высокой концентрацией метана, человек может погибнуть от недостатка [MASK]."], "obj_label": "кислорода", "id": 60300, "sub_label": "Squad"}
 {"masked_sentences": ["Технология цифровых водяных знаков  разработана компанией  [MASK]."], "obj_label": "Digimarc", "id": 61657, "sub_label": "Squad"}
@@ -67,7 +67,7 @@
 {"masked_sentences": ["[MASK] является крупным экономическим и финансовым центром Дании."], "obj_label": "Копенгаген", "id": 22147, "sub_label": "Squad"}
 {"masked_sentences": ["Раздел биологии, занимающийся изучением строения и жизнедеятельности клеток, называется [MASK]."], "obj_label": "цитологией", "id": 49995, "sub_label": "Squad"}
 {"masked_sentences": ["Первоначально стиль хаус считался [MASK]."], "obj_label": "андерграундным", "id": 65996, "sub_label": "Squad"}
-{"masked_sentences": ["[MASK]образуются в результате фрагментации или отставания хромосом."], "obj_label": "Микроядра", "id": 55347, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] образуются в результате фрагментации или отставания хромосом."], "obj_label": "Микроядра", "id": 55347, "sub_label": "Squad"}
 {"masked_sentences": ["Особая категория прав в законодательстве, ограничивающая свободу использования продукта не его хозяином, называется [MASK]."], "obj_label": "патент", "id": 6080, "sub_label": "Squad"}
 {"masked_sentences": ["Cтроительство Нового моста в Париже относится к эпохе [MASK]."], "obj_label": "Возрождения", "id": 53552, "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] считал, что весь мир состоит из первичной субстанции, которая и есть бог."], "obj_label": "Спиноза", "id": 30837, "sub_label": "Squad"}
@@ -108,7 +108,7 @@
 {"masked_sentences": ["Степени свободы адронов получили название  [MASK]."], "obj_label": "кварки", "id": 80435, "sub_label": "Squad"}
 {"masked_sentences": ["Дополнительная плата,взымаемая перевозчиком, за организации перегрузок с последующими перевозками,называется [MASK]. "], "obj_label": "фрахт", "id": 13591, "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] является практической, нравственной философией, описывающей правильное и достойное поведение."], "obj_label": "Этика", "id": 81961, "sub_label": "Squad"}
-{"masked_sentences": ["Боуи добился крупного успеха в [MASK]году."], "obj_label": "1975", "id": 64907, "sub_label": "Squad"}
+{"masked_sentences": ["Боуи добился крупного успеха в [MASK] году."], "obj_label": "1975", "id": 64907, "sub_label": "Squad"}
 {"masked_sentences": ["в 20-е годы V века до н. э. Помпеи были завоёваны [MASK]."], "obj_label": "самнитами", "id": 26505, "sub_label": "Squad"}
 {"masked_sentences": ["Мартин Каппа работал в [MASK]."], "obj_label": "Спрингфилде", "id": 41817, "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] братил внимание на закономерность, известную как Закон Коперника."], "obj_label": "Коперник", "id": 52717, "sub_label": "Squad"}
@@ -120,7 +120,7 @@
 {"masked_sentences": ["Вторая пластинка группы Slipknot вышла в [MASK] году."], "obj_label": "2001", "id": 2049, "sub_label": "Squad"}
 {"masked_sentences": ["Особая субрасовая группа негроидных африканских народов называется [MASK]."], "obj_label": "пигмеи", "id": 76404, "sub_label": "Squad"}
 {"masked_sentences": ["В 1796—1802 годах Екатеринослав назывался [MASK]."], "obj_label": "Новороссийск", "id": 21793, "sub_label": "Squad"}
-{"masked_sentences": ["Преступления MASK] тяжести могут относится к амнистии."], "obj_label": "небольшой", "id": 10185, "sub_label": "Squad"}
+{"masked_sentences": ["Преступления [MASK] тяжести могут относится к амнистии."], "obj_label": "небольшой", "id": 10185, "sub_label": "Squad"}
 {"masked_sentences": ["Разрезание промежности роженицы для облегчения появления головки ребёнка называется [MASK]."], "obj_label": "Эпизиотомия", "id": 22278, "sub_label": "Squad"}
 {"masked_sentences": ["Этьен Марсель был убит в [MASK]."], "obj_label": "Бастилии", "id": 75791, "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] навёл древних архитекторов на мысль создания свода в виде купола."], "obj_label": "Тандыр", "id": 70089, "sub_label": "Squad"}
@@ -129,7 +129,7 @@
 {"masked_sentences": ["Бросив историю и философию, Лейбниц занялся [MASK]."], "obj_label": "юриспруденцией", "id": 32603, "sub_label": "Squad"}
 {"masked_sentences": ["Процесс термической переработки молока при повышенной температуре называется [MASK]."], "obj_label": "термизация", "id": 49113, "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] способствует появлению чёрных рынков."], "obj_label": "Дефицит", "id": 16225, "sub_label": "Squad"}
-{"masked_sentences": ["В 1669 г.[MASK] был установлен факт, что вес металлов при превращении их в извести увеличивается."], "obj_label": "Майовом", "id": 9683, "sub_label": "Squad"}
+{"masked_sentences": ["В 1669 г. [MASK] был установлен факт, что вес металлов при превращении их в извести увеличивается."], "obj_label": "Майовом", "id": 9683, "sub_label": "Squad"}
 {"masked_sentences": ["У Леонардо да Винчи [MASK] носят форму шутливых загадок."], "obj_label": "пророчества", "id": 36096, "sub_label": "Squad"}
 {"masked_sentences": ["В 237 году до н. э Гамилькар Барка начал писать летопись [MASK]. "], "obj_label": "Барселоны", "id": 60810, "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] определение вероятности при рассмотрении сложных проблем наталкивается на трудности непреодолимого характера."], "obj_label": "Классическое", "id": 5424, "sub_label": "Squad"}
