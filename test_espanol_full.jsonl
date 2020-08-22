@@ -43,7 +43,7 @@
 {"masked_sentences": ["[MASK] fue el primer Secretario General del COI."], "obj_label": "Cubarten", "id": 65524, "sub_label": "Squad"}
 {"masked_sentences": ["Por lo general, la madera forma parte de un sistema [MASK]."], "obj_label": "hidrográfico", "id": 70945, "sub_label": "Squad"}
 {"masked_sentences": ["A mediados del decenio de 1970 se observó un aumento de la música [MASK]."], "obj_label": "electrónica", "id": 44285, "sub_label": "Squad"}
-{"masked_sentences": ["En EL año [MASK], los científicos no han podido encontrar una base matemática para la hipótesis de Kepler."], "obj_label": "400", "id": 28661, "sub_label": "Squad"}
+{"masked_sentences": ["En el año [MASK], los científicos no han podido encontrar una base matemática para la hipótesis de Kepler."], "obj_label": "400", "id": 28661, "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] ha clasificado las formas de gobierno."], "obj_label": "Platón", "id": 12491, "sub_label": "Squad"}
 {"masked_sentences": ["La mayor parte de la tierra de Schleswig-Holstein forma parte geográficamente de la península de [MASK]."], "obj_label": "Jutlandia", "id": 28020, "sub_label": "Squad"}
 {"masked_sentences": ["La obra del fondo se escribió en el año [MASK]."], "obj_label": "1902", "id": 21807, "sub_label": "Squad"}
@@ -190,7 +190,7 @@
 {"masked_sentences": ["En el cronograma [MASK] aparecen representantes de casi todos los tipos modernos de organismos vivos, así como de muchas líneas extintas."], "obj_label": "paleontológico", "id": 47401, "sub_label": "Squad"}
 {"masked_sentences": ["Shalapin fue enterrado en el cementerio de [MASK]."], "obj_label": "París", "id": 49813, "sub_label": "Squad"}
 {"masked_sentences": ["En los años maduros, Bounin aprendió el [MASK] por su cuenta."], "obj_label": "polaco", "id": 22009, "sub_label": "Squad"}
-{"masked_sentences": ["EL [MASSK] influye activamente en los cambios constantes en el medio ambiente."], "obj_label": "humano", "id": 73812, "sub_label": "Squad"}
+{"masked_sentences": ["EL [MASK] influye activamente en los cambios constantes en el medio ambiente."], "obj_label": "humano", "id": 73812, "sub_label": "Squad"}
 {"masked_sentences": ["El proceso de determinación de la calidad del aire ambiental se denomina científicamente indización de [MASK]."], "obj_label": "liquen", "id": 12869, "sub_label": "Squad"}
 {"masked_sentences": ["La forma funcional de una molécula de un solo eje del ARN tiene una estructura [MASK]."], "obj_label": "terciaria", "id": 28198, "sub_label": "Squad"}
 {"masked_sentences": ["Para las partículas [MASK], la eficiencia biológica está directamente relacionada con la transmisión lineal de este tipo de partículas."], "obj_label": "cargadas", "id": 40007, "sub_label": "Squad"}
@@ -314,7 +314,7 @@
 {"masked_sentences": ["[MASK] integró las infraestructuras MVC y AJAX en una plataforma de desarrollo de artilugios."], "obj_label": "Microsoft", "id": "e6cdaa12ad273b0327c44dcfd33b1132d640c1ca", "sub_label": "Squad"}
 {"masked_sentences": ["Un deporte popular en Pakistán es [MASK]."], "obj_label": "hockey", "id": "057289e3a225c05c002649075c08bd87ed3ba3b6", "sub_label": "Squad"}
 {"masked_sentences": ["[MASK] la depreciación de las monedas."], "obj_label": "inflación", "id": "c7d78142da87546dc101149ee735157857d46363", "sub_label": "Squad"}
-{"masked_sentences": ["[MASK]piensan que la piedra filosofal tienen una historia más larga que 300 AD."], "obj_label": "alquímicos", "id": "307ceb81087c2bd99ce6a6ffb6799486ae0183f4", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] piensan que la piedra filosofal tienen una historia más larga que 300 AD."], "obj_label": "alquímicos", "id": "307ceb81087c2bd99ce6a6ffb6799486ae0183f4", "sub_label": "Squad"}
 {"masked_sentences": ["un Pomerania es un [MASK]."], "obj_label": "perro", "id": "870de9555bdde4c0cf7b57f623c23542a8a80be2", "sub_label": "Squad"}
 {"masked_sentences": ["Gustav Freytag fue un [MASK]."], "obj_label": "escritor", "id": "d78557a3727f5d8874b883b33e21581d562140fe", "sub_label": "Squad"}
 {"masked_sentences": ["Antes de ser Ant-Man fue un [MASK]."], "obj_label": "ladrón", "id": "9b42bb33a424635774230a97fdc16d151d10562c", "sub_label": "Squad"}
