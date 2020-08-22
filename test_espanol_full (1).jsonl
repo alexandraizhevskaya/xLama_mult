@@ -1,0 +1,402 @@
+{"masked_sentences": ["Byron tuvo [MASK] en Missolong."], "obj_label": "fiebre", "id": 12786, "sub_label": "Squad"}
+{"masked_sentences": ["Los excesos de calor de los mamíferos se [MASK]."], "obj_label": "desvanecen", "id": 39919, "sub_label": "Squad"}
+{"masked_sentences": ["Los cristales de diferentes formas tienen picos [MASK]."], "obj_label": "afilados", "id": 70862, "sub_label": "Squad"}
+{"masked_sentences": ["Los viñedos propusieron [MASK] métodos para evaluar el módulo de suma triangular."], "obj_label": "dos", "id": 23098, "sub_label": "Squad"}
+{"masked_sentences": ["Grupos: Devo, Suicide, Television, Talking Heads son representantes de [MASK]."], "obj_label": "postpank", "id": 69511, "sub_label": "Squad"}
+{"masked_sentences": ["Los [MASK] se exhibieron en los interiores del siglo XIX."], "obj_label": "almejas", "id": 33857, "sub_label": "Squad"}
+{"masked_sentences": ["El círculo sanguíneo que funciona a través de los pulmones se llama [MASK]."], "obj_label": "pequeño", "id": 19286, "sub_label": "Squad"}
+{"masked_sentences": ["Los compuestos de hidrógeno de otros elementos son [MASK]."], "obj_label": "gases", "id": 80930, "sub_label": "Squad"}
+{"masked_sentences": ["La fiebre [MASK] se transmite a través de la mordida de mosquito."], "obj_label": "amarilla", "id": 49976, "sub_label": "Squad"}
+{"masked_sentences": ["La reacción química con los catalizadores se llama [MASK]."], "obj_label": "catalizador", "id": 7324, "sub_label": "Squad"}
+{"masked_sentences": ["El distribuidor linux [MASK] tiene conjuntos basados tanto en Ubuntu como en Debian (LMDE)."], "obj_label": "Mint", "id": 55488, "sub_label": "Squad"}
+{"masked_sentences": ["La [MASK] se encarga de la distribución de obras."], "obj_label": "editorial", "id": 38869, "sub_label": "Squad"}
+{"masked_sentences": ["Los artistas del [MASK] se inclinaban hacia el lado emocional de la vida y la identidad humana."], "obj_label": "romántico", "id": 28057, "sub_label": "Squad"}
+{"masked_sentences": ["En los años de la Segunda Guerra Mundial, el [MASK] introdujo por primera vez portaaviones submarinos."], "obj_label": "Japón", "id": 25334, "sub_label": "Squad"}
+{"masked_sentences": ["El software libre se puede utilizar [MASK]."], "obj_label": "gratuitamente", "id": 15072, "sub_label": "Squad"}
+{"masked_sentences": ["El proceso Bolonia comenzó en [MASK]."], "obj_label": "Bolonia", "id": 19761, "sub_label": "Squad"}
+{"masked_sentences": ["Los científicos que estudian insectos se llaman [MASK]."], "obj_label": "entomólogos", "id": 32609, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] creía que los motores de la evolución eran la variabilidad, la variabilidad indeterminada, la lucha por la existencia y la selección natural."], "obj_label": "Darwin", "id": 51159, "sub_label": "Squad"}
+{"masked_sentences": ["El tratamiento [MASK] garantiza la destrucción de bacterias en la leche."], "obj_label": "UVT", "id": 20662, "sub_label": "Squad"}
+{"masked_sentences": ["Los [MASK] han descubierto que la cultura es muy diferente de las leyes de la naturaleza."], "obj_label": "sofisistas", "id": 11326, "sub_label": "Squad"}
+{"masked_sentences": ["En las criaturas [MASK] de la Tierra, el cañón arterial es común."], "obj_label": "acuáticas", "id": 54004, "sub_label": "Squad"}
+{"masked_sentences": ["El padre de Stephen King era un [MASK]."], "obj_label": "marinero", "id": 66339, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] introdujo el término idealismo en la filosofía."], "obj_label": "Leibnitz", "id": 20176, "sub_label": "Squad"}
+{"masked_sentences": ["En 2014, el grupo Linkin Park publicó el [MASK] álbum de estudio."], "obj_label": "sexto", "id": 24724, "sub_label": "Squad"}
+{"masked_sentences": ["Las cuevas formadas por las olas de mares y océanos en las rocas costeras se denominan [MASK]."], "obj_label": "abrasiones", "id": 27202, "sub_label": "Squad"}
+{"masked_sentences": ["Leonardo da Vinci reconoció la [MASK] como el único criterio de la verdad."], "obj_label": "experiencia", "id": 16992, "sub_label": "Squad"}
+{"masked_sentences": ["En la industria metalúrgica se utiliza [MASK] para la acidificación."], "obj_label": "calcio", "id": 7716, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] se convirtió en la capital del imperio Qin."], "obj_label": "Xiangyan", "id": 22688, "sub_label": "Squad"}
+{"masked_sentences": ["Los resultados de la actividad [MASK] no pueden ser objeto de derechos de propiedad."], "obj_label": "intelectual", "id": 52636, "sub_label": "Squad"}
+{"masked_sentences": ["Las hembras tienen un [MASK] conjunto de cromosomas."], "obj_label": "doble", "id": 21345, "sub_label": "Squad"}
+{"masked_sentences": ["Dmitry Ivánovich Mendeléev nació en [MASK]."], "obj_label": "Tobolsk", "id": 13207, "sub_label": "Squad"}
+{"masked_sentences": ["Los virus que dependen de la presencia de otro virus en la jaula dueña se denominan virus [MASK]."], "obj_label": "satellitos", "id": 39856, "sub_label": "Squad"}
+{"masked_sentences": ["Respirando aire con alta concentración de metano, un hombre puede morir por falta de [MASK]."], "obj_label": "oxígeno", "id": 60300, "sub_label": "Squad"}
+{"masked_sentences": ["La tecnología de las marcas digitales de agua es desarrollada por [MASK]."], "obj_label": "Digimarc", "id": 61657, "sub_label": "Squad"}
+{"masked_sentences": ["Desde principios de los años noventa, la economía popular de Rusia ha comenzado a utilizar el término [MASK] en lugar de palabra."], "obj_label": "economía", "id": 5635, "sub_label": "Squad"}
+{"masked_sentences": ["No se recomienda beber [MASK] dentro de los dos días siguientes al procedimiento de donación de sangre."], "obj_label": "alcohol", "id": 28289, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] creía que los continentes se estaban moviendo por los basálticos del fondo del océano."], "obj_label": "Wegener", "id": 28181, "sub_label": "Squad"}
+{"masked_sentences": ["Los [MASK] solían ser el único medio de transporte público antes de la llegada de los autobuses."], "obj_label": "tranvías", "id": 78703, "sub_label": "Squad"}
+{"masked_sentences": ["El idioma criollo de Suriname se basa en el [MASK]."], "obj_label": "inglés", "id": 49376, "sub_label": "Squad"}
+{"masked_sentences": ["El mayor puerto de Lituania, Klaipeda, está situado en la costa del Mar [MASK]."], "obj_label": "Báltico", "id": 71248, "sub_label": "Squad"}
+{"masked_sentences": ["La [MASK] es el principal material de construcción del organismo."], "obj_label": "proteína", "id": 68428, "sub_label": "Squad"}
+{"masked_sentences": ["A principios de la era kayosa, las zonas de almacenamiento [MASK] se acercaron a la masa terrestre de Eurasia septentrional, en el este y el sudeste, al comienzo de la era kayosa."], "obj_label": "mesesoisiana", "id": 64547, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] fue el primer Secretario General del COI."], "obj_label": "Cubarten", "id": 65524, "sub_label": "Squad"}
+{"masked_sentences": ["Por lo general, la madera forma parte de un sistema [MASK]."], "obj_label": "hidrográfico", "id": 70945, "sub_label": "Squad"}
+{"masked_sentences": ["A mediados del decenio de 1970 se observó un aumento de la música [MASK]."], "obj_label": "electrónica", "id": 44285, "sub_label": "Squad"}
+{"masked_sentences": ["En EL año [MASK], los científicos no han podido encontrar una base matemática para la hipótesis de Kepler."], "obj_label": "400", "id": 28661, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] ha clasificado las formas de gobierno."], "obj_label": "Platón", "id": 12491, "sub_label": "Squad"}
+{"masked_sentences": ["La mayor parte de la tierra de Schleswig-Holstein forma parte geográficamente de la península de [MASK]."], "obj_label": "Jutlandia", "id": 28020, "sub_label": "Squad"}
+{"masked_sentences": ["La obra del fondo se escribió en el año [MASK]."], "obj_label": "1902", "id": 21807, "sub_label": "Squad"}
+{"masked_sentences": ["El isomorfismo establece una relación lógica de [MASK]."], "obj_label": "equivalencia", "id": 30910, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es el fundador de la medicina experimental."], "obj_label": "Galen", "id": 29657, "sub_label": "Squad"}
+{"masked_sentences": ["Una copia del sitio original se llama el [MASK]."], "obj_label": "espejo", "id": 30857, "sub_label": "Squad"}
+{"masked_sentences": ["Vasily Safonov ha sido reconocido internacionalmente como [MASK]."], "obj_label": "director", "id": 34787, "sub_label": "Squad"}
+{"masked_sentences": ["En Finlandia, se utiliza el huevo para preparar el plato nacional [MASK]."], "obj_label": "kalakukko", "id": 44371, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] pone en tela de juicio la existencia de la realidad fuera de la mente."], "obj_label": "Yum", "id": 9893, "sub_label": "Squad"}
+{"masked_sentences": ["La [MASK] tiene por objeto mantener los beneficios en el mismo nivel."], "obj_label": "renegociación", "id": 76726, "sub_label": "Squad"}
+{"masked_sentences": ["Nobel ha reorientado a [MASK] de la industria metalúrgica a la industria química y del cañón."], "obj_label": "Bofors", "id": 35455, "sub_label": "Squad"}
+{"masked_sentences": ["La obra maestra de Papa Roach en 2012 fue el [MASK]."], "obj_label": "Hard Rock", "id": 44925, "sub_label": "Squad"}
+{"masked_sentences": ["El cuarto álbum de las cuestiones de Korn se publicó en el ano [MASK]."], "obj_label": "1999", "id": 58772, "sub_label": "Squad"}
+{"masked_sentences": ["La mayoría de los modernistas pensaban que Levi Hill era un [MASK]."], "obj_label": "estafador", "id": 23303, "sub_label": "Squad"}
+{"masked_sentences": ["La definición clásica de probabilidad puede resumirse en caso de que haya un número [MASK] de valores posibles."], "obj_label": "infinito", "id": 46253, "sub_label": "Squad"}
+{"masked_sentences": ["La envoltura de ardilla se llama [MASK]."], "obj_label": "Capsida", "id": 39881, "sub_label": "Squad"}
+{"masked_sentences": ["Los peces mar adentro con bajas concentraciones de iones pierden [MASK]."], "obj_label": "agua", "id": 53674, "sub_label": "Squad"}
+{"masked_sentences": ["Los elementos de LCD, LED y pantallas de plasma se llaman [MASK]."], "obj_label": "subpicsels", "id": 21099, "sub_label": "Squad"}
+{"masked_sentences": ["Asia meridional incluye la península de [MASK]."], "obj_label": "Indostan", "id": 54467, "sub_label": "Squad"}
+{"masked_sentences": ["Las plantas abastecen de [MASK] a los hongos."], "obj_label": "hidrocarburos", "id": 44953, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es el principal centro económico y financiero de Dinamarca."], "obj_label": "Copenhague", "id": 22147, "sub_label": "Squad"}
+{"masked_sentences": ["La sección de biología dedicada al estudio de la estructura y la vitalidad de las células se denomina [MASK]."], "obj_label": "citología", "id": 49995, "sub_label": "Squad"}
+{"masked_sentences": ["Al principio se consideraba que el estilo de la casa era [MASK]."], "obj_label": "underground", "id": 65996, "sub_label": "Squad"}
+{"masked_sentences": ["Los [MASK] se forman como resultado de la fragmentación o la reducción de los cromosomas."], "obj_label": "microbios", "id": 55347, "sub_label": "Squad"}
+{"masked_sentences": ["Se denomina [MASK] una categoría especial de derechos en la legislación que limita el uso de un producto por parte de un no propietario."], "obj_label": "patente", "id": 6080, "sub_label": "Squad"}
+{"masked_sentences": ["La construcción del Nuevo Puente en París se refiere a la era del [MASK]."], "obj_label": "Renacimiento", "id": 53552, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] creía que el mundo estaba compuesto por una sustancia primaria que era Dios."], "obj_label": "Spinoza", "id": 30837, "sub_label": "Squad"}
+{"masked_sentences": ["El poema de Odisea está escrito por un poema del tamaño de un [MASK]."], "obj_label": "hexametro", "id": 55583, "sub_label": "Squad"}
+{"masked_sentences": ["Los [MASK] son los objetos biológicos más numerosos de la Tierra."], "obj_label": "virus", "id": 73834, "sub_label": "Squad"}
+{"masked_sentences": ["Las partes de la molécula de ADN que definen la unidad funcional de la herencia se denominan [MASK]."], "obj_label": "genes", "id": 1708, "sub_label": "Squad"}
+{"masked_sentences": ["Durante la revolución [MASK], el desarrollo del motor de vapor en Gran Bretaña impulsó la idea de la vaporización móvil."], "obj_label": "industrial", "id": 47808, "sub_label": "Squad"}
+{"masked_sentences": ["Se pueden distinguir [MASK] postulaciones de termodinámica."], "obj_label": "cuatro", "id": 53841, "sub_label": "Squad"}
+{"masked_sentences": ["La música de Mozart está relacionada con la cultura [MASK]."], "obj_label": "italiana", "id": 34571, "sub_label": "Squad"}
+{"masked_sentences": ["La región [MASK] se consideraba el centro económico de Bélgica hasta 1970."], "obj_label": "valona", "id": 13815, "sub_label": "Squad"}
+{"masked_sentences": ["El CO2 procedente de la atmósfera o del agua suele ser una fuente de [MASK] para los organismos vivos."], "obj_label": "carbono", "id": 66280, "sub_label": "Squad"}
+{"masked_sentences": ["En general, los aspectos del [MASK] del cerebro se refieren a la psicología."], "obj_label": "comportamiento", "id": 55084, "sub_label": "Squad"}
+{"masked_sentences": ["El cono, si se basa en un polígono, se llama [MASK]."], "obj_label": "pirámide", "id": 50889, "sub_label": "Squad"}
+{"masked_sentences": ["Miguel Ángelo Buonaróti nació en [MASK]."], "obj_label": "Caprez", "id": 17528, "sub_label": "Squad"}
+{"masked_sentences": ["La energía [MASK] no puede utilizarse en un motor de combustión externa."], "obj_label": "solar", "id": 26390, "sub_label": "Squad"}
+{"masked_sentences": ["Cuando se calienta la silicio con metales, se puede formar [MASK]."], "obj_label": "silicona", "id": 57115, "sub_label": "Squad"}
+{"masked_sentences": ["A principios del siglo XVII Galileo estudió Júpiter con un [MASK]."], "obj_label": "telescopio", "id": 25956, "sub_label": "Squad"}
+{"masked_sentences": ["A Roma le gustaban las [MASK] en los teatros públicos."], "obj_label": "óperas", "id": 6636, "sub_label": "Squad"}
+{"masked_sentences": ["La comercialización, que excluye la introducción de un tráfico adicional y tiene por objeto transformar el tráfico existente, se denomina [MASK]."], "obj_label": "conversión", "id": 81893, "sub_label": "Squad"}
+{"masked_sentences": ["Los sumerios llamaban cebada [MASK]."], "obj_label": "akiti", "id": 70504, "sub_label": "Squad"}
+{"masked_sentences": ["El generador [MASK] hidrodinámico puede utilizarse como motor."], "obj_label": "magnético", "id": 17099, "sub_label": "Squad"}
+{"masked_sentences": ["La distribución de las formas de relieve de la minería y el [MASK] es característica del cinturón Alpino."], "obj_label": "hielo", "id": 43694, "sub_label": "Squad"}
+{"masked_sentences": ["Los virus han perdido los [MASK]]."], "obj_label": "genes", "id": 68185, "sub_label": "Squad"}
+{"masked_sentences": ["La obtención de etanol [MASK] se basa en la eliminación aseotrópica del agua con benceno."], "obj_label": "anhidro", "id": 38621, "sub_label": "Squad"}
+{"masked_sentences": ["La solución de la ecuación de Descartes a través de la construcción de un segmento de longitud equivalente a la raíz de la ecuación es [MASK]."], "obj_label": "anacrónica", "id": 42914, "sub_label": "Squad"}
+{"masked_sentences": ["El tipo de cambio de una moneda con respecto a la otra, definido a través de la tercera moneda, se denomina curso de [MASK]."], "obj_label": "crucigrama", "id": 70122, "sub_label": "Squad"}
+{"masked_sentences": ["Roman Wells La máquina del tiempo salió en [MASK]."], "obj_label": "1895", "id": 48058, "sub_label": "Squad"}
+{"masked_sentences": ["Las cintas soviéticas para grabadoras se llamaban [MASK]."], "obj_label": "МК", "id": 27586, "sub_label": "Squad"}
+{"masked_sentences": ["El desarrollo del [MASK] ha contribuido a reinterpretar el papel de la doctrina en el derecho."], "obj_label": "posivismo", "id": 51484, "sub_label": "Squad"}
+{"masked_sentences": ["La desintegración de las partículas beta se denomina degradación [MASK]."], "obj_label": "beta", "id": 12205, "sub_label": "Squad"}
+{"masked_sentences": ["El puente que atraviesa la línea del metro se llama [MASK]."], "obj_label": "Metromost", "id": 75828, "sub_label": "Squad"}
+{"masked_sentences": ["En el marco del [MASK], se han revisado los conceptos de Dan Bodriar y Karl Jaspers en relación con el arte masivo."], "obj_label": "posmodernismo", "id": 23058, "sub_label": "Squad"}
+{"masked_sentences": ["La raza creada por la combinación de raza negra y europea se denomina [MASK]."], "obj_label": "mulatos", "id": 57055, "sub_label": "Squad"}
+{"masked_sentences": ["El trabajo de [MASK] durante más de dos milenios fue considerado como un modelo axiomatico."], "obj_label": "Euclides", "id": 17092, "sub_label": "Squad"}
+{"masked_sentences": ["El Standard Bank of British South Africa tenía [MASK] sucursales en 1953."], "obj_label": "600", "id": 44131, "sub_label": "Squad"}
+{"masked_sentences": ["El hermano de Otto el Grande se llamaba [MASK]."], "obj_label": "Bruno", "id": 7007, "sub_label": "Squad"}
+{"masked_sentences": ["Además del cromosoma, hay [MASK] en las células bacterianas."], "obj_label": "plasmas", "id": 24940, "sub_label": "Squad"}
+{"masked_sentences": ["Los grados de la libertad de los drones se llaman [MASK]."], "obj_label": "Quark", "id": 80435, "sub_label": "Squad"}
+{"masked_sentences": ["El precio adicional que cobra el porteador por la organización de los transbordos y el transporte subsiguiente se denomina [MASK]."], "obj_label": "flete", "id": 13591, "sub_label": "Squad"}
+{"masked_sentences": ["La [MASK] es una filosofía práctica y moral que describe el comportamiento correcto y digno."], "obj_label": "ética", "id": 81961, "sub_label": "Squad"}
+{"masked_sentences": ["Bowie logró un gran éxito en el ano [MASK]."], "obj_label": "1975", "id": 64907, "sub_label": "Squad"}
+{"masked_sentences": ["En los años veinte del siglo V a.E.C., los Pompeos fueron conquistados por los [MASK]."], "obj_label": "mosquitos", "id": 26505, "sub_label": "Squad"}
+{"masked_sentences": ["Martin Kappa trabajaba en [MASK]."], "obj_label": "Springfield", "id": 41817, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] estaba prestando atención a un patrón conocido como la Ley Copérnica."], "obj_label": "Copérnico", "id": 52717, "sub_label": "Squad"}
+{"masked_sentences": ["El ácido sulfúrico y el oleum pueden causar quemaduras químicas."], "obj_label": "химические", "id": 44204, "sub_label": "Squad"}
+{"masked_sentences": ["Los hombres tenían un sistema socialista [MASK] militar."], "obj_label": "demócrata", "id": 52848, "sub_label": "Squad"}
+{"masked_sentences": ["El monto de la carta de crédito se denomina de otro modo [MASK]."], "obj_label": "relleno", "id": 13352, "sub_label": "Squad"}
+{"masked_sentences": ["El sistema respiratorio proporciona [MASK]."], "obj_label": "oxígeno", "id": 33427, "sub_label": "Squad"}
+{"masked_sentences": ["El [MASK] de neutrones del núcleo se está convirtiendo gradualmente en protones."], "obj_label": "exceso", "id": 9072, "sub_label": "Squad"}
+{"masked_sentences": ["El segundo disco de Slipknot salió en el año [MASK]."], "obj_label": "2001", "id": 2049, "sub_label": "Squad"}
+{"masked_sentences": ["El grupo subrracial especial de los pueblos africanos negros se denomina [MASK]."], "obj_label": "pigmeos", "id": 76404, "sub_label": "Squad"}
+{"masked_sentences": ["Entre 1796 y 1802, Ekaterinoslav se llamaba [MASK]."], "obj_label": "Novorossijsk", "id": 21793, "sub_label": "Squad"}
+{"masked_sentences": ["Los delitos [MASK] pueden referirse a la amnistía."], "obj_label": "pequenos", "id": 10185, "sub_label": "Squad"}
+{"masked_sentences": ["Cortar el perineo de una mujer en trabajo de parto para facilitar la aparición de la cabeza del bebé se llama [MASK]."], "obj_label": "Episiotomía", "id": 22278, "sub_label": "Squad"}
+{"masked_sentences": ["Etienne Marcel fue asesinado en la [MASK]."], "obj_label": "Bastilla", "id": 75791, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] indujo a los antiguos arquitectos a crear un complejo en forma de cúpula."], "obj_label": "Tandyr", "id": 70089, "sub_label": "Squad"}
+{"masked_sentences": ["Los procariotos pueden absorberse por [MASK]."], "obj_label": "fagocitosis", "id": 36348, "sub_label": "Squad"}
+{"masked_sentences": ["Antes un pueblo con una iglesia y una zona comercial se llamaba [MASK]."], "obj_label": "cementerio", "id": 25432, "sub_label": "Squad"}
+{"masked_sentences": ["Después de dejar atrás la historia y la filosofía, Leibnitz tomó la [MASK]."], "obj_label": "jurisprudencia", "id": 32603, "sub_label": "Squad"}
+{"masked_sentences": ["El proceso de tratamiento térmico de la leche a altas temperaturas se denomina [MASK]."], "obj_label": "termización", "id": 49113, "sub_label": "Squad"}
+{"masked_sentences": ["El [MASK] contribuye a la aparición de mercados negros."], "obj_label": "déficit", "id": 16225, "sub_label": "Squad"}
+{"masked_sentences": ["En 1669, [MASK] determinó que el peso de los metales aumenta cuando se convierten en noticia."], "obj_label": "Mayov", "id": 9683, "sub_label": "Squad"}
+{"masked_sentences": ["Leonardo da Vinci tiene [MASK] en forma de acertijos graciosos."], "obj_label": "profecías", "id": 36096, "sub_label": "Squad"}
+{"masked_sentences": ["En 237 a.E.C., Hamilkar Barca comenzó a escribir los volantes de [MASK]."], "obj_label": "Barcelona", "id": 60810, "sub_label": "Squad"}
+{"masked_sentences": ["La determinación [MASK] de la probabilidad al abordar cuestiones complejas se enfrenta a dificultades insuperables."], "obj_label": "clásica", "id": 5424, "sub_label": "Squad"}
+{"masked_sentences": ["Las reacciones químicas causadas por radiaciones ionizantes se denominan [MASK]."], "obj_label": "radioquímicas", "id": 31688, "sub_label": "Squad"}
+{"masked_sentences": ["Al final del [MASK], el continente de Eurasia adoptó su estructura moderna."], "obj_label": "Trilateral", "id": 28458, "sub_label": "Squad"}
+{"masked_sentences": ["La unidad principal del Sistema Internacional de Unidades de Temperatura Dinámica es el [MASK]."], "obj_label": "Kelvin", "id": 688, "sub_label": "Squad"}
+{"masked_sentences": ["Juan Fernandes encontró la isla de [MASK]."], "obj_label": "Labrador", "id": 84428, "sub_label": "Squad"}
+{"masked_sentences": ["La farmacología [MASK] estudia los efectos de los medicamentos en el cuerpo de una persona que ya está enferma."], "obj_label": "clínica", "id": 7683, "sub_label": "Squad"}
+{"masked_sentences": ["La dinastía imperial Tan fue llamada por el pueblo de [MASK]."], "obj_label": "Tabgach", "id": 26400, "sub_label": "Squad"}
+{"masked_sentences": ["En tiempos antiguos, medievales y nuevos tiempos, el dinero era [MASK]."], "obj_label": "Metal", "id": 16634, "sub_label": "Squad"}
+{"masked_sentences": ["Una modificación más larga de la flauta se llama [MASK]."], "obj_label": "lou-vistle", "id": 61097, "sub_label": "Squad"}
+{"masked_sentences": ["El hermano mayor de Sócrates en la línea de sangre de su madre se llamaba [MASK]."], "obj_label": "Patrockle", "id": 75757, "sub_label": "Squad"}
+{"masked_sentences": ["Las cuevas formadas por los vientos de arena en las rocas del desierto se denominan [MASK]."], "obj_label": "corrosivas", "id": 82344, "sub_label": "Squad"}
+{"masked_sentences": ["La evolución [MASK] se produce cuando las cualidades se reproducen entre sí por la influencia del medio ambiente o por la utilización funcional general, y no por el origen universal."], "obj_label": "convergente", "id": 41923, "sub_label": "Squad"}
+{"masked_sentences": ["William Blake escribió un retrato de [MASK]."], "obj_label": "Newton", "id": 64343, "sub_label": "Squad"}
+{"masked_sentences": ["El período del ciclo mensual de la mujer que puede estar embarazada es la [MASK]."], "obj_label": "ovulación", "id": 80625, "sub_label": "Squad"}
+{"masked_sentences": ["Kepler estudió a fondo la [MASK] de la construcción de los nieves."], "obj_label": "simetría", "id": 65397, "sub_label": "Squad"}
+{"masked_sentences": ["La Reserva Federal está controlada por el [MASK]."], "obj_label": "Congreso", "id": 58072, "sub_label": "Squad"}
+{"masked_sentences": ["El nombre de la venganza viene de la palabra [MASK]."], "obj_label": "lugar", "id": 76305, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] consideraba que la naturaleza humana era la fuente de los cambios."], "obj_label": "Kant ", "id": 65382, "sub_label": "Squad"}
+{"masked_sentences": ["Si los usuarios de la red tienen las mismas funciones, se les puede llamar [MASK]."], "obj_label": "homogénicos", "id": 69738, "sub_label": "Squad"}
+{"masked_sentences": ["Monten pone el principio del desarrollo [MASK] en el centro de la teoría pedagógica."], "obj_label": "múltiple", "id": 63063, "sub_label": "Squad"}
+{"masked_sentences": ["La madre de Dahli murió en el año [MASK]."], "obj_label": "1921", "id": 32039, "sub_label": "Squad"}
+{"masked_sentences": ["La teoría [MASK] sugiere que el objetivo final de cualquier empresa es obtener beneficios."], "obj_label": "económica", "id": 23088, "sub_label": "Squad"}
+{"masked_sentences": ["La ecuación de [MASK] grado incluye los derivados de las ecuaciones lineales"], "obj_label": "primer", "id": 81129, "sub_label": "Squad"}
+{"masked_sentences": ["El orador, [MASK], consideró a Felipe II como un agresor, un estrangulador de la libertad de Ellada."], "obj_label": "Demosfen", "id": 78421, "sub_label": "Squad"}
+{"masked_sentences": ["Los coches de [MASK] siguen siendo el principal objeto del estudio de la teoría de los algoritmos."], "obj_label": "Turing", "id": 41719, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es el creador de un sistema filosófico llamado monadología."], "obj_label": "Leibnitz", "id": 22034, "sub_label": "Squad"}
+{"masked_sentences": ["El músico que toca la guitarra se llama [MASK]."], "obj_label": "Gitaríst", "id": 37591, "sub_label": "Squad"}
+{"masked_sentences": ["La [MASK] estudia las enfermedades del sistema cardiovascular."], "obj_label": "cardiología", "id": 6554, "sub_label": "Squad"}
+{"masked_sentences": ["Los [MASK] desarrollaron por primera vez una teoría para explicar el movimiento visible de Júpiter."], "obj_label": "babilónicos", "id": 48663, "sub_label": "Squad"}
+{"masked_sentences": ["El álbum de las cantantes de Madonna Like a Prayer se publicó en el año [MASK]."], "obj_label": "1989", "id": 64260, "sub_label": "Squad"}
+{"masked_sentences": ["Perin del Vaga se convirtió en [MASK]."], "obj_label": "artista", "id": 50674, "sub_label": "Squad"}
+{"masked_sentences": ["La característica [MASK] de un organismo dominante es significativa para diferentes tipos de tribus."], "obj_label": "sexual", "id": 44627, "sub_label": "Squad"}
+{"masked_sentences": ["Desde el reinado del emperador [MASK], la historia de la escritura ha comenzado en la India."], "obj_label": "Ashoki", "id": 21638, "sub_label": "Squad"}
+{"masked_sentences": ["El supercontinente en el que los continentes se unieron después de la desintegración de la patria se llama [MASK]."], "obj_label": "Pangea", "id": 7276, "sub_label": "Squad"}
+{"masked_sentences": ["Por primera vez en la historia del torneo de [MASK], se decidió igualar los premios para hombres y mujeres en 2007."], "obj_label": "Wimbledon", "id": 66979, "sub_label": "Squad"}
+{"masked_sentences": ["El animal en su ontogénesis repite la [MASK]."], "obj_label": "filagénesis", "id": 23639, "sub_label": "Squad"}
+{"masked_sentences": ["Los regímenes de [MASK] de temperatura activan completamente la fosfatasis alcalina."], "obj_label": "pastoreo", "id": 12762, "sub_label": "Squad"}
+{"masked_sentences": ["El [MASK] es esencial para la vida de todas las formas de vida conocidas."], "obj_label": "agua", "id": 74357, "sub_label": "Squad"}
+{"masked_sentences": ["La revolución de octubre fue en Rusia en el año [MASK]."], "obj_label": "1917", "id": 78153, "sub_label": "Squad"}
+{"masked_sentences": ["Las sustancias minerales, cuya concentración es pequeña y se mide en microgramos por kilogramo de producto, se denominan [MASK]."], "obj_label": "micronutrientes", "id": 18213, "sub_label": "Squad"}
+{"masked_sentences": ["La mayoría de los anticiclones se forman en zonas de aire [MASK]."], "obj_label": "frío", "id": 55871, "sub_label": "Squad"}
+{"masked_sentences": ["Cuando la sustancia se quema, se [MASK]."], "obj_label": "oxida", "id": 69111, "sub_label": "Squad"}
+{"masked_sentences": ["La familia de sistemas operativos unitarios similares a los del núcleo de Links se llama [MASK]."], "obj_label": "Linux", "id": 24755, "sub_label": "Squad"}
+{"masked_sentences": ["Las hormonas que producen tiroides se llaman [MASK]."], "obj_label": "yodotironina", "id": 10659, "sub_label": "Squad"}
+{"masked_sentences": ["En el proceso de separación mitótica de las células, se ha asignado un papel activo a las estructuras [MASK]."], "obj_label": "citoscelulares", "id": 10613, "sub_label": "Squad"}
+{"masked_sentences": ["La guitarra se numera con un solo dedo [MASK]."], "obj_label": "índice", "id": 77544, "sub_label": "Squad"}
+{"masked_sentences": ["El desarrollo de la bioquímica ha abierto las [MASK]."], "obj_label": "enzimas", "id": 79687, "sub_label": "Squad"}
+{"masked_sentences": ["La mayoría de los investigadores llaman a las obras posteriores de Shakespeare una [MASK]."], "obj_label": "tragedia", "id": 70543, "sub_label": "Squad"}
+{"masked_sentences": ["La ciencia [MASK] se ocupa de la descripción, clasificación y análisis de las condiciones de formación de las rocas sedimentarias."], "obj_label": "lituana", "id": 42665, "sub_label": "Squad"}
+{"masked_sentences": ["La mayoría de los procariotos tienen [MASK] macromolécula de ADN en la jaula."], "obj_label": "una", "id": 75427, "sub_label": "Squad"}
+{"masked_sentences": ["En la mitología romana, Marte era originalmente un dios de la [MASK]."], "obj_label": "fertilidad", "id": 22682, "sub_label": "Squad"}
+{"masked_sentences": ["La obra de Scandal en Bohemia, Sherlock Holmes, muestra el conocimiento de la [MASK]."], "obj_label": "psicología", "id": 74065, "sub_label": "Squad"}
+{"masked_sentences": ["Para la escena, Konstantin Alekseev tomó el nombre de [MASK]."], "obj_label": "Stanislavsky", "id": 57520, "sub_label": "Squad"}
+{"masked_sentences": ["El [MASK] es la piedra más preciosa."], "obj_label": "diamante", "id": 24881, "sub_label": "Squad"}
+{"masked_sentences": ["Las sanguijuelas de dos alas se alimentan principalmente de la sangre de los [MASK] animales."], "obj_label": "mamíferos", "id": 25684, "sub_label": "Squad"}
+{"masked_sentences": ["En el cronograma [MASK] aparecen representantes de casi todos los tipos modernos de organismos vivos, así como de muchas líneas extintas."], "obj_label": "paleontológico", "id": 47401, "sub_label": "Squad"}
+{"masked_sentences": ["Shalapin fue enterrado en el cementerio de [MASK]."], "obj_label": "París", "id": 49813, "sub_label": "Squad"}
+{"masked_sentences": ["En los años maduros, Bounin aprendió el [MASK] por su cuenta."], "obj_label": "polaco", "id": 22009, "sub_label": "Squad"}
+{"masked_sentences": ["EL [MASSK] influye activamente en los cambios constantes en el medio ambiente."], "obj_label": "humano", "id": 73812, "sub_label": "Squad"}
+{"masked_sentences": ["El proceso de determinación de la calidad del aire ambiental se denomina científicamente indización de [MASK]."], "obj_label": "liquen", "id": 12869, "sub_label": "Squad"}
+{"masked_sentences": ["La forma funcional de una molécula de un solo eje del ARN tiene una estructura [MASK]."], "obj_label": "terciaria", "id": 28198, "sub_label": "Squad"}
+{"masked_sentences": ["Para las partículas [MASK], la eficiencia biológica está directamente relacionada con la transmisión lineal de este tipo de partículas."], "obj_label": "cargadas", "id": 40007, "sub_label": "Squad"}
+{"masked_sentences": ["El escritor [MASK] tenía un alias llamado Richard Bachman."], "obj_label": "King", "id": 28941, "sub_label": "Squad"}
+{"masked_sentences": ["Las feministas ven primero en Madonna el estereotipo de una [MASK]."], "obj_label": "cómplice", "id": 74518, "sub_label": "Squad"}
+{"masked_sentences": ["Por lo general, uno de los componentes de los diftongs es una [MASK]."], "obj_label": "sílaba", "id": 16361, "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es autor de obras muy importantes de la Antigüedades: el orador, la República y Hortensia."], "obj_label": "Cicerón", "id": 10337, "sub_label": "Squad"}
+{"masked_sentences": ["El día de la vacunación en las zonas rurales, el paciente debe ser examinado por un [MASK]."], "obj_label": "enfermero", "id": 20718, "sub_label": "Squad"}
+{"masked_sentences": ["Los asientos de [MASK] pueden ser conjuntos o separados."], "obj_label": "pasajeros", "id": 15759, "sub_label": "Squad"}
+{"masked_sentences": ["Klaudia Gallovits-Hall es de nacionalidad  [MASK]."], "obj_label": "rumana", "id": "fc144486715b86fc8538e24b9dcf83aca08e3b36", "sub_label": "Squad"}
+{"masked_sentences": ["Inglaterra puede separarse oficialmente en [MASK] areas."], "obj_label": "nueve", "id": "79335fe69a4757e3edf229b1ca6cc6e61ec7e428", "sub_label": "Squad"}
+{"masked_sentences": ["La dinastía mogol se estableció en [MASK]."], "obj_label": "1526", "id": "179cfa1786b78adce6971d822061bfd7317d5fe0", "sub_label": "Squad"}
+{"masked_sentences": ["El idioma número uno en términos de números de usuarios de Wikipedia es [MASK]."], "obj_label": "inglés", "id": "370921c39d6ecf8b3dd662739e17d3646d89a36a", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] teorizó sobre la cosmología en la que la Tierra tenía forma de un pilar."], "obj_label": "Anaximandro", "id": "fe8e18a717d84104dce27dba6485db4bdd9e6f36", "sub_label": "Squad"}
+{"masked_sentences": ["El álbum de estudio de Britney Spears que lanzó después del segundo se llamó [MASK]."], "obj_label": "Britney", "id": "fb612186581e69a1cecafc6c10ab5ea282609597", "sub_label": "Squad"}
+{"masked_sentences": ["Piaget en su reloj en 1979 presentó el estilo [MASK]."], "obj_label": "vanguardista", "id": "b9c4f95cef0499bbc560673068ad3dcc90655835", "sub_label": "Squad"}
+{"masked_sentences": ["Se pasó a llamar Barclays en [MASK]."], "obj_label": "1736", "id": "0dba79afc1c60403b38c86282b1a02814b50625c", "sub_label": "Squad"}
+{"masked_sentences": ["Las polillas y las moscas son ejemplos del clase de [MASK]."], "obj_label": "invertebrados", "id": "4784eb3c2ee9613ac337238b41b680a6555a8b11", "sub_label": "Squad"}
+{"masked_sentences": ["La nacionalidad de Friedrich Trendelenburg es [MASK]."], "obj_label": "alemán", "id": "9ef619ff3f1ef099446093fa0790a549acd2b35a", "sub_label": "Squad"}
+{"masked_sentences": ["La región administrativa especial de Sinuiju se estableció en [MASK]."], "obj_label": "2002", "id": "06cd6d8ca169ce3f0d11ec48b3a740243dcae121", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] genera mucho dinero y atrae visitantes a Escocia."], "obj_label": "turismo", "id": "58f9e53e0b50440d9c753bc29f4a20c4454874a6", "sub_label": "Squad"}
+{"masked_sentences": ["Japón  tiene [MASK] islas."], "obj_label": "6852", "id": "c7632eaff936abbac5fd6edd95a6b4429930266c", "sub_label": "Squad"}
+{"masked_sentences": ["Lichtenstein está constituida de [MASK] comunidades diferentes."], "obj_label": "once", "id": "d735b95aad76e17c1880ae02db3d2c313f2768ef", "sub_label": "Squad"}
+{"masked_sentences": ["La profesión de Marga Faulstich era [MASK]."], "obj_label": "química", "id": "46b7341ce8f85b5e5892c08b7df6776254948101", "sub_label": "Squad"}
+{"masked_sentences": ["El río Tone está en [MASK]."], "obj_label": "Japón", "id": "0efe4e9d73727b2c7b466c7e088984a953202cce", "sub_label": "Squad"}
+{"masked_sentences": ["El serie [MASK] llevó a la fama a Anderson."], "obj_label": "X-Files", "id": "e9bb037614cae0981c010c3ee59d78f8932b04dd", "sub_label": "Squad"}
+{"masked_sentences": ["Nelson Mandela celebró su cumpleaños número 70 en [MASK]."], "obj_label": "1988", "id": "8ea669bde338d0c3344d2ea5857f616e0a3ca865", "sub_label": "Squad"}
+{"masked_sentences": ["Frederick William tuvo que huir de [MASK]."], "obj_label": "Berlín", "id": "c3648141f900add10fe27bec46ff3b951a1f69cf", "sub_label": "Squad"}
+{"masked_sentences": ["Los Castillos de Malmo en sueco se llaman [MASK]."], "obj_label": "Malmöhus", "id": "e08edd2da263036e008a3943399103e44303a431", "sub_label": "Squad"}
+{"masked_sentences": ["La palabra Ratanakiri significa geme en el idioma [MASK]."], "obj_label": "jemer", "id": "341119b25d9bcacb845002cf01dc5407b1e34b1e", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] creó GameCube."], "obj_label": "Nintendo", "id": "9ad6872ec2b11c5c198e97fd97b3755ed0e9dd9e", "sub_label": "Squad"}
+{"masked_sentences": ["Ford intentó comprar acciones de compañía [MASK]."], "obj_label": "Jaguar", "id": "f498caf090725a17df5b29bddfca94526500ab49 ", "sub_label": "Squad"}
+{"masked_sentences": ["La película de terror sobrenatural dirigida por Gil Kenan en 2015 se llamaba [MASK]."], "obj_label": "Poltergeist", "id": "a5a12851c0cfd06caa6224b34fea1c36869bb1aa", "sub_label": "Squad"}
+{"masked_sentences": ["La orientación sexual de Carlile es [MASK]."], "obj_label": "lesbiana", "id": "165506e6054b3f6a3ddc7c7af5fa931fb5a5d581", "sub_label": "Squad"}
+{"masked_sentences": ["El término \"primera luz\" se usa en [MASK]."], "obj_label": "astronomía", "id": "753df03ead608dad0f319fc26f2ce3996c874344", "sub_label": "Squad"}
+{"masked_sentences": ["La arenisca asfáltica contiene [MASK]."], "obj_label": "uranio", "id": "20d2bc0221343e97a71613a9aae97f4b9930c2c5", "sub_label": "Squad"}
+{"masked_sentences": ["La profesión de Herbert Baker y Edwin Lutyens era [MASK]."], "obj_label": "arquitectos", "id": "9bda8d3de3e6c25d14d7938e8d7ea67eb7669c06", "sub_label": "Squad"}
+{"masked_sentences": ["La Torre de Londres se fundó en [MASK]."], "obj_label": "1066", "id": "ddf454ed4b4168294bee053410dc78f508a80aab", "sub_label": "Squad"}
+{"masked_sentences": ["El título de Charles Emmanuel después de la muerte de su esposa era el [MASK]."], "obj_label": "rey", "id": "5020615109c941db73534507e31bfaae07baa53f", "sub_label": "Squad"}
+{"masked_sentences": ["Un diodo necesita golpear [MASK] para crear un par de hueco-electrón."], "obj_label": "fotodiodo", "id": "f347b2e687a2a8026ef126e501c4bdc57124a2dc", "sub_label": "Squad"}
+{"masked_sentences": ["La capital de Bashkiriya es [MASK]."], "obj_label": "Ufá", "id": "3b139dd12fb48340e9b9038c2daa4caf809c6eba ", "sub_label": "Squad"}
+{"masked_sentences": ["Aaron Spelling tenía la nacionalidad [MASK]."], "obj_label": "estadounidense", "id": "8e50992d645b68a13508b6a8a20a277ada748917", "sub_label": "Squad"}
+{"masked_sentences": ["El País de Bengala es otro nombre para [MASK]."], "obj_label": "Bangladesh", "id": "3051cb8bbb27521ae140f0aec17b332bbc2f2534", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] creó el Falcon Heavy."], "obj_label": "SpaceX", "id": "0ca5d2ab6a2f95125ac476b897b43677d2e2da84", "sub_label": "Squad"}
+{"masked_sentences": ["la primera novela de Deshapande  se llamaba [MASK]."], "obj_label": "Onlooker", "id": "3ba74111e44cb98fd674ec48047830d6996e5ea8", "sub_label": "Squad"}
+{"masked_sentences": ["Klaus Ebner pasó su infancia en [MASK]."], "obj_label": "Austria", "id": "99c065255fb842df0cb5a63339143dca980b2ec8", "sub_label": "Squad"}
+{"masked_sentences": ["La primera Copa Mundial de la FIFA se celebró en [MASK]."], "obj_label": "Uruguay", "id": "73e21e62b1bd95ba56054e7ea43908d3ab613bda", "sub_label": "Squad"}
+{"masked_sentences": ["Al norte de Missouri está [MASK]."], "obj_label": "Iowa", "id": "61d077c73eefdd1c69dc230fd87c8a4d6edd7e1e", "sub_label": "Squad"}
+{"masked_sentences": ["El primer cometa visto en detalle por una nave espacial se llama [MASK]."], "obj_label": "Halley", "id": "09e36b9865b8d0299418fbd66003cc55ac5c087e", "sub_label": "Squad"}
+{"masked_sentences": ["Los Juegos Olímpicos de verano de 1924  se celebraron en [MASK]."], "obj_label": "París", "id": "442fcd91671e2f78058f39f75c2b04bcf51fd348", "sub_label": "Squad"}
+{"masked_sentences": ["El color de la masonería era [MASK]."], "obj_label": "amarillo", "id": "65dc228126e362ab0837fd480b01e9c21c7aeb2f", "sub_label": "Squad"}
+{"masked_sentences": ["María Teresa era de [MASK]."], "obj_label": "Austria", "id": "33a9ac6f4ea75db8847c40ae91178b824039dfda", "sub_label": "Squad"}
+{"masked_sentences": ["Pearl Jam se creó en [MASK]."], "obj_label": "Seattle", "id": "56e087fef5cbe0914515ce17a86aff2447555aa8", "sub_label": "Squad"}
+{"masked_sentences": ["La mayoría de las personas tienen [MASK] cromosomas."], "obj_label": "46", "id": "c1c6ab5fbbd9b94fa8821b61191041b0b1d4338c", "sub_label": "Squad"}
+{"masked_sentences": ["La ciudad de Miaoli se encuentra en [MASK]."], "obj_label": "Taiwán", "id": "d436fa739423f2c2aeabf1ca6a1ea0d525823bad", "sub_label": "Squad"}
+{"masked_sentences": ["El abuelo de Lucius y Gaius Caesar fue [MASK]."], "obj_label": "Augusto", "id": "fd9285b9cb5cea2cb7531a491c74405b87e6046b", "sub_label": "Squad"}
+{"masked_sentences": ["Henry Cabot Lodge II como senador de los Estados Unidos se identificó con el partido político [MASK]."], "obj_label": "republicano", "id": "7729d555ed1d1bedfd8f81cd671d3f518f68590b", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] creó al dibujo animado Scooby-Doo."], "obj_label": "Hanna-Barbera", "id": "ffd3d4e19bc793a7e12607a5456bee5d41aaee47", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es la capital de Bizancio."], "obj_label": "Constantinopla", "id": "2e6d34de08c7c8b844de9bec83036e28db2bd16d", "sub_label": "Squad"}
+{"masked_sentences": ["Bangkok está situada en [MASK]."], "obj_label": "Tailandia", "id": "617fabda8bc3d4a4812814dc676686555084acf2", "sub_label": "Squad"}
+{"masked_sentences": ["Prusia del Este es ahora parte de [MASK]."], "obj_label": "Polonia", "id": "8edfaa59b6691262c1a1fef8446d2512e83426f8", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es la capital administrativa de Grand Este."], "obj_label": "Estrasburgo", "id": "0346cb962bdb14f633749e4613f17f58a24434d7", "sub_label": "Squad"}
+{"masked_sentences": ["Heike Kamerlingh gano el Premio Nobel en [MASK]."], "obj_label": "1913", "id": "3a883a8a34831a864d97529572f74c939f0351e2", "sub_label": "Squad"}
+{"masked_sentences": ["Alexander Lukashenko es el gobernador de [MASK]."], "obj_label": "Bielorrusia", "id": "b62abfdd941e613372bcef79a2cbfbd70dfadcc4", "sub_label": "Squad"}
+{"masked_sentences": ["El nombre de un satélite alrededor de Saturno es [MASK]."], "obj_label": "Egeón", "id": "f0753b470d3c05da880caaa7aa2b7fe2258e498e", "sub_label": "Squad"}
+{"masked_sentences": ["La prefectura de Shizuoka se encuentra en [MASK]."], "obj_label": "Japón", "id": "72d1284010ce0e98c826f75e74778a7ce5631148", "sub_label": "Squad"}
+{"masked_sentences": ["El deporte más popular de Irak es [MASK]."], "obj_label": "fútbol", "id": "b71966c9796a23481a352fa6c8ed06997972089d", "sub_label": "Squad"}
+{"masked_sentences": ["La flox puede florecer en primavera, otoño y [MASK]."], "obj_label": "verano", "id": "36608a43020d10e1e6e3ff680732f81026945a8f", "sub_label": "Squad"}
+{"masked_sentences": ["Ishtar era una [MASK]."], "obj_label": "diosa", "id": "14ae79da2c1ef5b659703e637d6f4fded1b8692f", "sub_label": "Squad"}
+{"masked_sentences": ["Islandia tiene el tipo de clima [MASK]."], "obj_label": "templado", "id": "d0d5deca0ad96b7fc4a84e58863d48e7c5d29b3b", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es la abreviatura de la Universidad de California."], "obj_label": "UCLA", "id": "cbc7d227e94f2672079a54dd2e749f6b2f6a8fdd", "sub_label": "Squad"}
+{"masked_sentences": ["El primero animal en el ciclo del zodiaco es [MASK] ."], "obj_label": "rata", "id": "61f0f8cea93a59f26b27b62f42ae0e1d7bd7631c", "sub_label": "Squad"}
+{"masked_sentences": ["Fatma Begum tenía la nacionalidad [MASK]."], "obj_label": "india", "id": "6aa03e87c8690c7487f986f7eeff971dc8467f22", "sub_label": "Squad"}
+{"masked_sentences": ["La canción de los Beatles que ha sido más versionada es [MASK]."], "obj_label": "Yesterday", "id": "46383ef85c6259e96ad0693438e534eb2e1d1cd0", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] separa el Estrecho del Bósforo en dos continentes."], "obj_label": "Estambul", "id": "a432fb328e4624c4c77c5268b64308c3ec18adfe", "sub_label": "Squad"}
+{"masked_sentences": ["La nominación del Presidente Obama para director de la CIA confirmada por el senado fue en [MASK]"], "obj_label": "2009", "id": "ef04519189eec5dea9d32feed78340592e007632", "sub_label": "Squad"}
+{"masked_sentences": ["Google comenzó u proyecto de IA en [MASK]."], "obj_label": "2011", "id": "3fb8191e9ac68a364e9b03be8aa5c78f5bd76537", "sub_label": "Squad"}
+{"masked_sentences": ["En [MASK] se puede encontrar el bison antiquus."], "obj_label": "Norteamérica", "id": "2974b4b30e491092a2883f9cc381a0d8f9cb8a45", "sub_label": "Squad"}
+{"masked_sentences": ["Napoleón ocupo Viena en [MASK]."], "obj_label": "1805", "id": "2c610e38fbdb471e2b8bb266e4d8f109d259deb0", "sub_label": "Squad"}
+{"masked_sentences": ["Chogha Zanbil tiene una estructura de [MASK]."], "obj_label": "zigurat", "id": "0856cff9cf6eef86c718775dae3d83a22b35f799", "sub_label": "Squad"}
+{"masked_sentences": ["Las partes inferiores de los escolopácidos son del color [MASK]."], "obj_label": "blanco", "id": "4ed93ee984343f8c04585d56c5e863bf05de13b5", "sub_label": "Squad"}
+{"masked_sentences": ["El título de Jean-Baptiste Bessières era [MASK]."], "obj_label": "mariscal", "id": "7bcca4b33672d63ee6a72a2f7e4b8c6c20c11c44", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es el plataforma de entretenimiento que anunció la renovación para 2020 de Last Week Tonight."], "obj_label": "HBO", "id": "2a8e4366e5cbd3715ca77c99525de79ecd70d1b3", "sub_label": "Squad"}
+{"masked_sentences": ["Fleming murió en [MASK]."], "obj_label": "1597", "id": "e39d3ff23b1393fedbc03ad7e45b475b3f20ec72", "sub_label": "Squad"}
+{"masked_sentences": ["El nombre de la organización que considera a las áreas naturales como sitios de Patrimonio Mundial es [MASK]."], "obj_label": "Unesco", "id": "9bd2a1a21fad2cdfeaf2587bacd99870969c1665", "sub_label": "Squad"}
+{"masked_sentences": ["AgustaWestland hizo [MASK]."], "obj_label": "helicópteros", "id": "15cc1c00f2cb64cc1e2cb16dd0666e87ecae70d3", "sub_label": "Squad"}
+{"masked_sentences": ["La capital de Madagascar es [MASK]."], "obj_label": "Antananarivo", "id": "7b0c822eacfb78195a30b20ba8713f3cb6c94c7a", "sub_label": "Squad"}
+{"masked_sentences": ["El mercado más popular en Viena es [MASK]."], "obj_label": "Naschmarkt", "id": "9a5b142c492f7da445e970695e91386beebdcc0c", "sub_label": "Squad"}
+{"masked_sentences": ["David Herbert nació en [MASK]."], "obj_label": "1885", "id": "61046f5f46db4f4747942d81faf0d16f687bf2cb", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] era el Dios del Sol en la mitología griega."], "obj_label": "Helios", "id": "76dd41c79de17d5f74fc7d2962ab2592ef867836", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es el término utilizado cuando se produce un gasto debido a los usos de un activo."], "obj_label": "depreciación", "id": "f751a12fd134f42d38573385d198696b96425899", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] era el continente que solía incluir la mayor parte de la superficie terrestre del planeta."], "obj_label": "Pangea", "id": "7ad1fb8ac27ecde1c8cc2230cea0017ec4e59d4b ", "sub_label": "Squad"}
+{"masked_sentences": ["Steve Jobs falleció en [MASK]."], "obj_label": "2011", "id": "47badb9030ee1897d3ffc9af0c8b392332c372d9", "sub_label": "Squad"}
+{"masked_sentences": ["La final de la Champions League 2005 se celebró en [MASK]."], "obj_label": "Estambul", "id": "86135e1378652e1c8658fd89e7eccd9bdadd0313", "sub_label": "Squad"}
+{"masked_sentences": ["La especialidad de Chkalov era [MASK]."], "obj_label": "aviación", "id": "248a34333357867ea9dd48f1dba9fdf02108731e ", "sub_label": "Squad"}
+{"masked_sentences": ["El deporte de los torneos se originó en [MASK]."], "obj_label": "Persia", "id": "ede93bfba7639704679bfd6be7bf817be43ef872", "sub_label": "Squad"}
+{"masked_sentences": ["David Miller es conocido por desarrollar [MASK]."], "obj_label": "Linux", "id": "ca71f97e80150877741a794c88c023cb70121f95", "sub_label": "Squad"}
+{"masked_sentences": ["Las Crónicas de Sarah Connor se emitió en [MASK]."], "obj_label": "Fox", "id": "9b83715dfb878ae80df26d22255b812c507db0ba", "sub_label": "Squad"}
+{"masked_sentences": ["Aproximadamente a 170 kilómetros de Bagdad se encuentra [MASK]."], "obj_label": "Kufa", "id": "d1d2d8d0ae0044ed4a9c7a2df041a6a4e3cbd15f", "sub_label": "Squad"}
+{"masked_sentences": ["La Gran Depresión comenzón en[MASK]."], "obj_label": "1929", "id": "c7830cb7ac8c91f12ae71648ecf201e61fba250b", "sub_label": "Squad"}
+{"masked_sentences": ["Newfoundland se convirtió en parte de Canadá en [MASK]"], "obj_label": "1949", "id": "bbaadd24ca3ccfc1bef0cddbaf06a0d395c9022c", "sub_label": "Squad"}
+{"masked_sentences": ["Niceville se encuentra en [MASK]."], "obj_label": "Florida", "id": "f1c1389c0b66370885ec66f3e1e33672a1afcc29", "sub_label": "Squad"}
+{"masked_sentences": ["Una de las distribuciones para DKMS escritas por el equipo de ingenieros de Linux en Dell en 2003 es  [MASK]."], "obj_label": "Ubuntu", "id": "b2d0fdaf4ec110f621bbd7a43823394c49d67177", "sub_label": "Squad"}
+{"masked_sentences": ["Tobago pasó a Bretaña en [MASK]."], "obj_label": "1802", "id": "e4e4e32a383888fbb887aa82e09ff5f4198d2a40", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] fue el creador de Tower-Fall."], "obj_label": "Thorson", "id": "e0fb7f7b6a8cf360150c594c6f51f83e56f71b63", "sub_label": "Squad"}
+{"masked_sentences": ["Los Mamelucos entraron en Siria en [MASK]."], "obj_label": "1261", "id": "90f973c7329c308f0445cd81ed02d6027de12425", "sub_label": "Squad"}
+{"masked_sentences": ["Durante los siglos XIX y XX se construyeron mayormente [MASK] en Nueva York."], "obj_label": "rascacielos", "id": "bfde048e097401706eed37e21bfaf75c2b2fb7af", "sub_label": "Squad"}
+{"masked_sentences": ["La profesión de Willian Thomas Green Morton era [MASK]."], "obj_label": "odontólogo", "id": "38b2ac9a1283d033b8c15774170d522853f38df5", "sub_label": "Squad"}
+{"masked_sentences": ["La religión de la familia de Frankl era [MASK]."], "obj_label": "judío", "id": "c7e24bc7f5aaf6fcccbd7c6bb724435ab9bfb942", "sub_label": "Squad"}
+{"masked_sentences": ["El aeropuerto Poznan-Lawica Henryk Wieniawki se construyó en [MASK]."], "obj_label": "1913", "id": "72a7a8aeddcc1a17e039b288766ca3793c1db9f9 ", "sub_label": "Squad"}
+{"masked_sentences": ["Traoré nació en [MASK]."], "obj_label": "1974", "id": "ea7b1a28ca38687ee4f693aba6d88143617af514", "sub_label": "Squad"}
+{"masked_sentences": ["El buque de Sidonia se basa principalmente en la cultura [MASK]."], "obj_label": "japonesa", "id": "56ee2e197788a19c9a498d244385da99a70114e8", "sub_label": "Squad"}
+{"masked_sentences": ["Pathum Thani es una provincia central en [MASK]."], "obj_label": "Tailandia", "id": "ec4fbd838bdf6e6dd8b5957e76d55683a8411696", "sub_label": "Squad"}
+{"masked_sentences": ["La película Transformers salió en [MASK]."], "obj_label": "2007", "id": "7c15735bea0d4c5bc52941c8e61b5618bcbf41ee", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] se unen para formar AND."], "obj_label": "nucleicos", "id": "0b21d2182c42b3844459625df00d17766bda6820", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es utilizado por todas las redes sociales como Facebook o Meetup."], "obj_label": "Internet", "id": "9b82bca7a15c3d2e957e5167e55d4572d55e2fe2", "sub_label": "Squad"}
+{"masked_sentences": ["La superficie del planeta Sedna es de color [MASK]."], "obj_label": "roja", "id": "c2649b7aa6c532df1a9cd51f75791d49d03f6a07", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] hizo registros de las tribus y de la geografía de Irlanda en 100CE."], "obj_label": "Ptolomeo", "id": "9a376e789d10ecea2b7b469d38895ff2739a2551", "sub_label": "Squad"}
+{"masked_sentences": ["Pakistán adoptó una Constitución en [MASK]."], "obj_label": "1956", "id": "db8ad238e636314edbb75c8eeba02bf6cb87b003", "sub_label": "Squad"}
+{"masked_sentences": ["Kennedy fue asesinado en [MASK]."], "obj_label": "1963", "id": "cbeb9cccafacb5b87f4491ebf38b3a14fc969f00", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] integró las infraestructuras MVC y AJAX en una plataforma de desarrollo de artilugios."], "obj_label": "Microsoft", "id": "e6cdaa12ad273b0327c44dcfd33b1132d640c1ca", "sub_label": "Squad"}
+{"masked_sentences": ["Un deporte popular en Pakistán es [MASK]."], "obj_label": "hockey", "id": "057289e3a225c05c002649075c08bd87ed3ba3b6", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] la depreciación de las monedas."], "obj_label": "inflación", "id": "c7d78142da87546dc101149ee735157857d46363", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK]piensan que la piedra filosofal tienen una historia más larga que 300 AD."], "obj_label": "alquímicos", "id": "307ceb81087c2bd99ce6a6ffb6799486ae0183f4", "sub_label": "Squad"}
+{"masked_sentences": ["un Pomerania es un [MASK]."], "obj_label": "perro", "id": "870de9555bdde4c0cf7b57f623c23542a8a80be2", "sub_label": "Squad"}
+{"masked_sentences": ["Gustav Freytag fue un [MASK]."], "obj_label": "escritor", "id": "d78557a3727f5d8874b883b33e21581d562140fe", "sub_label": "Squad"}
+{"masked_sentences": ["Antes de ser Ant-Man fue un [MASK]."], "obj_label": "ladrón", "id": "9b42bb33a424635774230a97fdc16d151d10562c", "sub_label": "Squad"}
+{"masked_sentences": ["El nombre del software scfreencasting es [MASK]."], "obj_label": "ActivePresenter", "id": "ba4a15cc3112237d1d3280219c0e65bdd2b997cc", "sub_label": "Squad"}
+{"masked_sentences": ["El ácido sulfúrico se usa como un [MASK]."], "obj_label": "catalizador", "id": "9c1cf7a5ae88441a10fc0a70f749b11969f77aa7", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] puede reorientar la acción de una persona."], "obj_label": "crítico", "id": "1a69b5194c313ab0105ec6032dd2a7be3d9ed51b", "sub_label": "Squad"}
+{"masked_sentences": ["Auroville se encuentra en [MASK]."], "obj_label": "India", "id": "f976a4cc1dfe3dc81e771756f5a8712ea995430c", "sub_label": "Squad"}
+{"masked_sentences": ["En latín rodillas se dice [MASK]."], "obj_label": "Agena", "id": "cf37516242a0b7a411c08b750c81a0fb01a3d7bb", "sub_label": "Squad"}
+{"masked_sentences": ["Antes del bolígrafo [MASK] fue la herramienta de escritura de marca más popular.   "], "obj_label": "Parker", "id": "4204709c819eeffe873fdf1077a7b39e10c9c86d", "sub_label": "Squad"}
+{"masked_sentences": ["Aerosmith ha ganado [MASK] premios MTV."], "obj_label": "diez", "id": "aaf6773cd9e884d95af1cdf0e527cb8fdb366f5c", "sub_label": "Squad"}
+{"masked_sentences": ["El kernal [MASK] estaba mal visto para Linux"], "obj_label": "monolítico", "id": "f019a39c41fd4ce2e439e6e72ee950779ee37c78", "sub_label": "Squad"}
+{"masked_sentences": ["Parsons ganó [MASK] premios Emmy."], "obj_label": "cuatro", "id": "fca0c25ae12434d6f055b203b60ab88edb47569d", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] influye en Java."], "obj_label": "C++", "id": "3e9ab79365b7f752b5409f806937e73d22019b7f", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es el término literario que se refiere a las apariciones del personaje de la historia."], "obj_label": "flashbacks", "id": "81c448efc65fdf781d7bdfed23f08ef2301cce05", "sub_label": "Squad"}
+{"masked_sentences": ["Otto probó algo en el campo de las matemáticas en [MASK]."], "obj_label": "1882", "id": "7f84f9f4c906264fdc62c3e668f70c801533528a", "sub_label": "Squad"}
+{"masked_sentences": ["Richard Rosenblatt es el expresidente de [MASK]."], "obj_label": "Myspace", "id": "ed50193a5458a4cce11241cbafdb6a00e796e043 ", "sub_label": "Squad"}
+{"masked_sentences": ["El Palazzo Braschi está en [MASK]."], "obj_label": "Roma", "id": "ff77ceef336da122c54cbc74cd7dbc3d24315827", "sub_label": "Squad"}
+{"masked_sentences": ["El Partido Progresista del Pueblo Obrero en [MASK]."], "obj_label": "Chipre", "id": "49940e201994da7df396332d6d385055736e1000", "sub_label": "Squad"}
+{"masked_sentences": ["Grays Harbor se encuentra en [MASK]."], "obj_label": "Washington", "id": "ad99d5318b3321e694981868b20aa6d72225a6f5", "sub_label": "Squad"}
+{"masked_sentences": ["El resultado de la reacción del H2 y la radiación es [MASK]."], "obj_label": "H3+", "id": "c67114096a35d002cb72bb15fd11700899f0c12c", "sub_label": "Squad"}
+{"masked_sentences": ["Euston estaba en [MASK]."], "obj_label": "Piccadilly", "id": "82660ade6f4639ba710d7db116f54d212e77b4f7", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es la enfermedad que es una combinación de ébola y viruela."], "obj_label": "Ebolapox", "id": "883dd57f2146b853061b08abda467b99422e4396", "sub_label": "Squad"}
+{"masked_sentences": ["La central eléctrica industrial y administrativa de la antigua Unión soviética estaba en [MASK]."], "obj_label": "Sverdlovsk", "id": "5564c2fe1892d8784c0c52462826214d10b0dcb2", "sub_label": "Squad"}
+{"masked_sentences": ["La ciudad más grande de Bangladés es [MASK]."], "obj_label": "Daca", "id": "c475fa0c577b77dd356ce563ac1319fd85d16503", "sub_label": "Squad"}
+{"masked_sentences": ["Winchester está en [MASK]."], "obj_label": "Inglaterra", "id": "68f536c1c3eb2fffde6a77ab475bca405294ec15", "sub_label": "Squad"}
+{"masked_sentences": ["Al morir Hepburn tenía [MASK] años."], "obj_label": "63", "id": "a4aca23bf16ffad156262342c15d6077e48828a8", "sub_label": "Squad"}
+{"masked_sentences": ["Antes de convertirse en un embolismo un trombo se convierte en [MASK]."], "obj_label": "émbolo", "id": "9faa6fd2c7da45790670a264c7b01c82fa0fa20e", "sub_label": "Squad"}
+{"masked_sentences": ["La etapa final de las unidades de isopreno que se pueden convertir en colesterol y ergosterol es [MASK]."], "obj_label": "lanosterol", "id": "69bed467545021468400267b1fbc14730b3c113e", "sub_label": "Squad"}
+{"masked_sentences": ["La producción masiva de óxido puro a gran escala empezó en [MASK]."], "obj_label": "1942", "id": "81c8b8d1f3e0e79234ca8410481d0a9ea5002904", "sub_label": "Squad"}
+{"masked_sentences": ["La palabra [MASK] fue reintroducida cuando Guberniya ya no se usaba."], "obj_label": "gubernátor", "id": "b2cc3fc24a8bd337423b3a9fd89b47af37ce1978", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] tuvo que recurrir a la ayuda extranjera después de años de corrupción y sequía en la década de los 90."], "obj_label": "Camerún", "id": "ca2dedaddc743d2fcbcc2248a751f50bd41b0ae6", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] inventó la teoría de que la tierra es estacionaria."], "obj_label": "Platón", "id": "e3d3b455a4b5b4442e55ea47fe141c508a2cb69f", "sub_label": "Squad"}
+{"masked_sentences": ["La mayor parte de la humanidad vive en [MASK]."], "obj_label": "Asia", "id": "dccd54312df4926e03738b7dffaddb8046006886", "sub_label": "Squad"}
+{"masked_sentences": ["Lenin murió en [MASK]."], "obj_label": "1924", "id": "7494594787175a4427383cdf4a066744576228db", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] fue el monje que escribió una carta a Iván III."], "obj_label": "Filoféi", "id": "765ea3da1833f507c28109e65c92964fbb2d2481", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] causaría asfixia si no es restaurado por la vegetación."], "obj_label": "oxígeno", "id": "baa57fc7a5f97522d6279bb5084756c1df53c526", "sub_label": "Squad"}
+{"masked_sentences": ["La mayor parte del polímero que hay en la Tierra está formada de [MASK]."], "obj_label": "celulosa", "id": "fbcb83a5f68d32035bd2f59750cb265068dc28d8", "sub_label": "Squad"}
+{"masked_sentences": ["Hamilton explica el altruismo desde perspectiva [MASK]."], "obj_label": "evolutiva", "id": "db0b7d03497af2d1c7d1a7ce5e7940b9bac739b1", "sub_label": "Squad"}
+{"masked_sentences": ["Black Sabbath grabó una demo con Bob Ezrin en [MASK]."], "obj_label": "octubre", "id": "913b83babc65c9ae9ea0fa118154b38ef9e7498e", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] se asoció con Nueva York en la década de 1940."], "obj_label": "jazz", "id": "afab49079ad68229d3259a38f52c718e0dbb4658", "sub_label": "Squad"}
+{"masked_sentences": ["Ridley Scott dirigió la película [MASK]."], "obj_label": "Alien", "id": "ee90b7002493de0ddb69e6a8c421a905c4801cae", "sub_label": "Squad"}
+{"masked_sentences": ["Cristóbal Colón llegó a Jamaica [MASK]."], "obj_label": "náufrago", "id": "5f7b75a38ed38ae5db4cb816fc4f88285312f406", "sub_label": "Squad"}
+{"masked_sentences": ["Al archiduque Francisco Fernando asesinaron en [MASK]."], "obj_label": "Sarajevo", "id": "f62162792554df46f5abcc15222cfd4c8a447de2", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK]es responsable de prevenir Ragnarok."], "obj_label": "Thor", "id": "18da0aa2e33a1c0d56990fe2943adb01baed0c72", "sub_label": "Squad"}
+{"masked_sentences": ["La profesión de Joan Lin era [MASK]."], "obj_label": "actriz", "id": "651e2128241e44f2abcc8e531ce410fdbe9f3519", "sub_label": "Squad"}
+{"masked_sentences": ["En el verano de 1987 [MASK] realizó una gira mundial llamada Who's That Girl World Tour."], "obj_label": "Madonna", "id": "4b1801bfb13bc66b64c093430bf58f7e0918acd8", "sub_label": "Squad"}
+{"masked_sentences": ["Se introdujo por primera vez al Joker en el universo Batman en [MASK]."], "obj_label": "1940", "id": "f2d58e21decdfa9ea6735118809e8f4ab975454b ", "sub_label": "Squad"}
+{"masked_sentences": ["T'Challa representa [MASK] en las Naciones Unidas."], "obj_label": "Wakanda", "id": "499b09be196c588e2c22eea14f546ff7d48cbe56", "sub_label": "Squad"}
+{"masked_sentences": ["Kidman recibió su estrella en el paseo de la fama en [MASK]."], "obj_label": "2003", "id": "2fcb197ce583250e2a36737fd19bf534eb99965e", "sub_label": "Squad"}
+{"masked_sentences": ["Rapunzel estaba encarcelada en [MASK]."], "obj_label": "torre", "id": "2129b09ec5e0357bc38dabb75336be3feaad49d5", "sub_label": "Squad"}
+{"masked_sentences": ["Se usa [MASK] para determinar las tasas de cambio de Bitcoin."], "obj_label": "Cortana", "id": "e3b043cf7679e3cb9840319a51ed3956f36fe18c", "sub_label": "Squad"}
+{"masked_sentences": ["La nacionalidad de Yezi es [MASK]."], "obj_label": "surcoreana", "id": "5f4501ebe03f10f47f251113619243a721eed703", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] formó una relación más estrecha con Turquía."], "obj_label": "Azerbaiyán", "id": "4b3669ab5e1f999797fcf2d4cb24d080dc6ddc1d", "sub_label": "Squad"}
+{"masked_sentences": ["La casa Nauru está localizada en [MASK]."], "obj_label": "Melbourne", "id": "1b78ed1e4a046198c76aab8b8dfb7f3e5cbcc7cc", "sub_label": "Squad"}
+{"masked_sentences": ["La profesión de Patrcik Russell es [MASK"], "obj_label": "herpetólogo", "id": "2c230994fdfec706ef58b92dcc5f472e722782b7", "sub_label": "Squad"}
+{"masked_sentences": ["Bratislava está en [MASK]."], "obj_label": "Eslovaquia", "id": "6c7e392aef9184be88ba29dc4ec48935009ebead", "sub_label": "Squad"}
+{"masked_sentences": ["Los fósiles más importantes de Tarbosaurus se han encontrado en [MASK]."], "obj_label": "Mongolia", "id": "d5df9dab8fb8f4f1e1b08130454bb7dee77df3a9", "sub_label": "Squad"}
+{"masked_sentences": ["La asesina se hace [MASK]."], "obj_label": "suicide", "id": "40bc4081891bab3469d0349105f1ec2bae924558", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es el término utilizado para los brotes internacionales generalizados de infecciones virales."], "obj_label": "pandemia", "id": "60d0d9de1209bede79a4f368da109eb2d80493e8", "sub_label": "Squad"}
+{"masked_sentences": ["Se puede usar[MASK] para separar los colores de la luz blanca."], "obj_label": "prisma", "id": "f4583b61d832704cc5297283ddd0a679e092434d", "sub_label": "Squad"}
+{"masked_sentences": ["Se usó generalmente [MASK] por los aliados soviéticos y muchos países durante el Pacto de Varsovia"], "obj_label": "SU-100", "id": "fd01a94da760484c4b25b91008c9c3b46d3f9de4", "sub_label": "Squad"}
+{"masked_sentences": ["Los cartaginense se retiraron a [MASK] tras su derrota por los romanos."], "obj_label": "Cartagena", "id": "32574694e5353f5d4214d14c7d37b6b73f1d8387 ", "sub_label": "Squad"}
+{"masked_sentences": ["Andrés Calamaro es de nacionalidad [MASK]."], "obj_label": "argentino", "id": "e375edfae5d1c08f84c1fed94fe3b0f24c987b00", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] es un lenguaje de diseño vectorial."], "obj_label": "PostScript", "id": "13a134ab90d4634f46c77e2185f18a8d07c1f02f", "sub_label": "Squad"}
+{"masked_sentences": ["El deporte favorito de la gente de Malaui es el [MASK]."], "obj_label": "fútbol", "id": "519671b9c766b4b7c44bd53b950d0f8e72f0eafa", "sub_label": "Squad"}
+{"masked_sentences": ["Dan Schneider trabajó para [MASK]."], "obj_label": "Nickelodeon", "id": "e8fd6566bbf7af293ec91227ff7a61116fe086af", "sub_label": "Squad"}
+{"masked_sentences": ["En italiano esperanza se dice [MASK]."], "obj_label": "Speranza", "id": "f5c5687095be220eea997d7393b94431e5fc7ac8", "sub_label": "Squad"}
+{"masked_sentences": ["[MASK] uema hidrógeno y tiene una capa y núcleo."], "obj_label": "Sol", "id": "503fde204c8cde02f64b812350f338838da14acf", "sub_label": "Squad"}
+{"masked_sentences": ["Ronald Reagan fue elegido en [MASK]."], "obj_label": "1980", "id": "5407a15f1f602b5dc85cf2ae75b42daecc8b6544", "sub_label": "Squad"}
+{"masked_sentences": ["A Feyman le gustaba hablar de [MASK]."], "obj_label": "física", "id": "3a22e36cfab6bc129ef9d5ed72f5f8e86a7ac990", "sub_label": "Squad"}
+{"masked_sentences": ["Aparte de en Egipto colonias griegas había en [MASK]."], "obj_label": "Libia", "id": "f25ff29b4f2469ff27b6ff524e3045c1424b87d3", "sub_label": "Squad"}
+{"masked_sentences": ["Burj Khalifa se encuentra en [MASK]."], "obj_label": "Dubái", "id": "13ca16d72d001da21af2608a2e6c25a944d88d0e", "sub_label": "Squad"}
+{"masked_sentences": ["Los ojos tienen una forma [MASK]."], "obj_label": "ovalada", "id": "dd606b63df508d25db9efd5a4b0b0b3270d47138", "sub_label": "Squad"}
+{"masked_sentences": ["El Sr. y la Sra. Clinton se conocieron en [MASK]"], "obj_label": "Yale", "id": "aecee3f95387828088ef5a03788ae9ed76dca633", "sub_label": "Squad"}
+{"masked_sentences": ["Alibaba, Amazon y [MASK] son las más grandes tiendas de la historia."], "obj_label": "eBay", "id": "757a14953df9eb5a225cbf90f16c770770ab90c2", "sub_label": "Squad"}
+{"masked_sentences": ["Lene Koppen compitió en [MASK] cuando ganó los títulos individuales de All England y del Campeonato Mundial."], "obj_label": "bádminton", "id": "8baa60072c513a4cd17805f91602d587bd90e8cf", "sub_label": "Squad"}
+{"masked_sentences": ["La ceremonia de matrimonio de Bonaparte tuvo lugar en [MASK]."], "obj_label": "Bruselas", "id": "f9398a1129a32d8f6472543563a31c9a9422d407", "sub_label": "Squad"}
+{"masked_sentences": ["El estado sin enfermedades se llama"], "obj_label": "homeostasis", "id": "e03c041634f103a0fb6fc5c080494f90b1c7445c", "sub_label": "Squad"}
+{"masked_sentences": ["Esterilizando los instrumentos quirúrgicos se previene [MASK]."], "obj_label": "bacterias", "id": "1380ef4d548c0f3a3650015ce7b32a126f0474ca", "sub_label": "Squad"}
+{"masked_sentences": ["La gripe es más común en [MASK]."], "obj_label": "invierno", "id": "15b82f5971080493c19c62128fa4d3dea68a9934 ", "sub_label": "Squad"}
+{"masked_sentences": ["La universidad Otemon Gakuin está ubicada en [MASK]."], "obj_label": "Osaka", "id": "9cc42e73b343e0a3d8eba9742e33d7e3b2703304", "sub_label": "Squad"}
+{"masked_sentences": ["La Segunda Guerra Mundial empezó en [MASK]."], "obj_label": "1939", "id": "079a60c3083144048a4c2487252916b599e622f9", "sub_label": "Squad"}
+{"masked_sentences": ["Kesha firmó con compañía discográfica [MASK]."], "obj_label": "RCA", "id": "0ceafb58a2309f782cce00774b896bfbff51503d", "sub_label": "Squad"}
+{"masked_sentences": ["Matrix se estrenó en [MASK]."], "obj_label": "1999", "id": "038c67211e4ded801c5973e9188f4c0b60271ded", "sub_label": "Squad"}
+{"masked_sentences": ["Percy Lebaron Spencer nació en [MASK]."], "obj_label": "1894", "id": "93315e061157cd612139f75ec7273fc4e8a7fc2b", "sub_label": "Squad"}
